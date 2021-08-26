@@ -1,0 +1,2799 @@
+@media (min-width:1500px){
+.EducationBannerWrap{
+	padding: 110px 0 90px;
+}
+}
+@media only screen and (min-width:1399px) and (max-width:1920px){
+.JourneyWrapper ul li:nth-child(8){
+   overflow:hidden;
+}
+}
+@media only screen and (min-width:1280px) and (max-width:1450px){
+  .HomeBannerWrapper, .HomeBannerWrapper .item{
+    height: 80vh;
+    min-height: 700px;
+  }  
+  .JourneyWrapper ul li:nth-child(8){
+   overflow:hidden;
+    }
+    .JourneyWrapper ul li:nth-child(1) {
+	margin: 20px 0 30px 0;
+}
+.JourneyWrapper ul li:nth-child(1)::before {
+	left: 42%;
+	transform: rotate(-12deg);
+	height: 148px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::before {
+	left: -70px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::after {
+	width: 60px;
+	left: -35px;
+}
+}
+
+@media only screen and (min-width:1121px) and (max-width:1279px){
+.container{
+	width:98%;	
+}
+.logo {
+    width: 90px;
+    margin: 20px;
+}
+#header.affix .logo {
+    margin: 0px 20px;
+}
+.HomeBannerWrapper,
+.HomeBannerWrapper .item {
+    height: 58vh;
+    min-height: 600px;
+}
+.HomeBannerWrapper .HomeBanner {
+    top: 30%;
+}
+.HomeBannerWrapper h1 span {
+    font-size: 26px;
+}
+.HomeBannerWrapper h1,
+.ServicesBannerWrap h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 36px;
+}
+.GenerateWrap .Box {
+	border-radius: 40px;
+    padding: 50px 30px;
+}
+.GenerateWrap .RightBox .Box ul li {
+    margin-right: 50px;
+}
+.AboutWrapper {
+    padding: 100px 0;
+}
+.AboutWrapper .TextWrap h4 {
+    font-size: 24px;
+}
+.FooterWrapper .TextWrapper p {
+    font-size: 16px;
+}
+
+.ConnectBannerWrap h1 {
+    margin-bottom: 20px;
+    font-size: 34px;
+}
+.MapWrapper {
+    height: 480px;
+}
+
+.EducationBannerWrap {
+    padding: 180px 0 70px;
+}
+.EducationBannerWrap .item iframe {
+    height: 500px;
+}
+.ArticleWrapper h2 {
+    font-size: 32px !important;
+}
+.ArticleWrapper ul li .TextBox h4 {
+    font-size: 24px;
+}
+
+.ResearchBannerWrap .TextBox {
+    width: 30%;
+}
+.ResearchBannerWrap .TextBox h2 {
+    font-size: 46px;
+}
+.ResearchBannerWrap .ImgBox {
+    width: 39%;
+}
+.ResearchBannerWrap {
+    padding-top: 60px;
+}
+.EquityWrap ul li .Border {
+    background-size: 300px;
+    margin: 35px 0 30px;
+}
+.EquityWrap .ReportBtn{
+    margin: 35px 0;
+}
+.EquityWrapper .TitleWrap h3 {
+    font-size: 30px;
+}
+.EquityWrapper {
+    padding: 80px 0 30px;
+}
+.EquityWrapper.MutualBottom{
+    padding:65px 0 0px;
+}
+
+.MehtasWrapper h2 {
+    margin-bottom: 25px;
+}
+.MehtasWrapper p {
+    padding: 0 0%;
+}
+.JourneyWrapper h4 {
+    font-size: 24px;
+}
+.JourneyWrapper .TitleWrap {
+    margin-bottom: 40px;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 26px;
+}
+
+.ServicesBannerWrap .slick-vertical .slick-slide {
+    height: 613px;
+}
+.ServicesBannerWrap #broking .slick-vertical .slick-slide{
+    height: 547px;
+}
+.ServicesBannerWrap #wealth-management .slick-vertical .slick-slide{
+    height: 669px;
+}
+.ServicesBannerWrap #investment-banking .slick-vertical .slick-slide{
+    height: 335px;
+}
+.ServicesBannerWrap #nbfc .slick-vertical .slick-slide,
+.ServicesBannerWrap #Services5 .slick-vertical .slick-slide{
+    height: 340px;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li{
+    font-size: 15px;
+}
+.ServicesBannerWrap .nav-pills.back .Products a b {
+    margin-top: 4px;
+}
+
+.raw-404.ConnectBannerWrap {
+    height: 100vh;
+    padding-top: 160px;
+    min-height: 730px;
+}
+
+.JourneyWrapper ul li:nth-child(3):after {
+    transform: rotate(29deg);
+    height: 130px;
+}
+
+.become-logo-wrap .become-logo a img {
+    height: 155px;
+}
+.become-partner-wrap .left-box h2 {
+    font-size: 50px;
+}
+.become-partner-wrap, .ftp-wrapper {
+    padding: 150px 0 60px;
+}
+
+.management-wrap {
+    padding: 120px 0 60px;
+}
+.management-box {
+    margin-top: 40px;
+}
+.management-box .box .title-box h4 {
+    font-size: 18px;
+}
+.management-box .box .img-box .img {
+    height: 280px;
+    line-height: 280px;
+}
+.management-box .box .img-box img {
+    max-height: 280px;
+}
+
+.key-document-wrap {
+    padding: 70px 0;
+}
+  .JourneyWrapper ul li:nth-child(8){
+   overflow:hidden;
+    }
+    .JourneyWrapper ul li:nth-child(1) {
+	margin: 20px 0 30px 0;
+}
+.JourneyWrapper ul li:nth-child(1)::before {
+	left: 42%;
+	transform: rotate(-12deg);
+	height: 148px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::before {
+	left: -70px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::after {
+	width: 60px;
+	left: -35px;
+}
+}
+@media only screen and (min-width:992px) and (max-width:1120px) {
+.container{
+	width:98%;
+}
+
+.logo {
+    width: 90px;
+    margin: 20px;
+}
+#header.affix .logo {
+    margin: 0px 20px;
+}
+.HomeBannerWrapper,
+.HomeBannerWrapper .item {
+    height: 65vh;
+    min-height: 520px;
+}
+.HomeBannerWrapper .HomeBanner {
+    top: 30%;
+}
+.HomeBannerWrapper h1 span {
+    font-size: 24px;
+}
+.HomeBannerWrapper h1,
+.ServicesBannerWrap h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 32px;
+}
+.TabShouldWrapper .TabTitle {
+    padding: 50px 0;
+}
+.GenerateWrap .LeftBox .Box ul li {
+    margin-right: 10px;
+}
+.GenerateWrap .Box [type="radio"]:checked + label, .GenerateWrap .Box [type="radio"]:not(:checked) + label {
+    width: 84px;
+    padding: 7px 10px;
+}
+.GenerateWrap .Box {
+	border-radius: 40px;
+    padding: 50px 30px;
+}
+.GenerateWrap .RightBox .Box ul li {
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
+.GenerateWrap .Box .Col {
+    margin-bottom: 40px;
+}
+.GenerateWrap .Box h6 {
+    margin-bottom: 20px;
+}
+.GenerateWrap .RightBox .Box ul li h5 {
+    font-size: 18px;
+}
+.GenerateWrap .RightBox .Box ul li span {
+    font-size: 15px;
+}
+.BtnWrap {
+    padding: 13px 30px;
+}
+.AboutWrapper {
+    padding: 80px 0;
+}
+.AboutWrapper .TextWrap h4 {
+    font-size: 22px;
+}
+.OpportunitiesWrap .TextWrap h4 {
+    margin-bottom: 40px;
+}
+.FooterMenu .MenuPdg {
+    padding: 0 40px;
+}
+.FooterWrapper .TextWrapper p {
+    font-size: 16px;
+}
+.FooterWrapper .SocialWrap {
+    padding-top: 30px;
+}
+
+.ServicesBannerWrap {
+    padding: 140px 0 40px;
+}
+/*.ServicesBannerWrap .tab-pane {
+    padding-top: 50px;
+}*/
+.ServicesBannerBox .tab-content.height-col{
+    margin-top: 50px;
+}
+.ServicesBannerWrap h6 {
+    margin-bottom: 20px;
+}
+.ServicesBannerWrap h2 {
+    font-size: 17px !important;
+}
+.ServicesBannerWrap span {
+    font-size: 16px;
+}
+.scroll-down {
+    padding-top: 40px;
+}
+.ServicesBannerLink {
+    padding-top: 40px;
+}
+
+.ConnectBannerWrap {
+    padding: 150px 0 80px;
+}
+.ConnectBannerWrap h1 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.MapWrapper {
+    height: 400px;
+}
+.MapWrapper .ConnectDetailsBox {
+    left: 50px;
+    top: -50px;
+}
+.MapWrapper .ConnectDetailsBox {
+    padding: 30px 30px;
+}
+
+.EducationBannerWrap {
+    padding: 170px 0 60px;
+}
+.EducationBannerWrap .item iframe {
+    height: 450px;
+}
+.EducationBannerWrap .GaleryBtn {
+    padding-top: 30px;
+}
+.ArticleWrapper h2 {
+    font-size: 30px !important;
+    margin-bottom: 40px;
+}
+.ArticleWrapper ul li .TextBox h4 {
+    font-size: 24px;
+}
+.ArticleWrapper ul li .ImgBox img {
+    height: 180px;
+}
+.slick-prev {
+    left: -40px;
+}
+.slick-next {
+    right: -40px;
+}
+.ArticleWrapper ul li .ImgBox {
+    width: 200px;
+}
+.ArticleWrapper ul li .TextBox {
+    width: calc(100% - 200px);
+}
+.ArticleWrapper ul {
+    max-height: 875px;
+}
+.ct-perfect-fourth:before {
+    padding-bottom: 200px;
+}
+
+.ResearchBannerWrap .TextBox {
+    width: 30%;
+    padding-top: 60px;
+}
+.ResearchBannerWrap .TextBox h2 {
+    font-size: 40px;
+}
+.ResearchBannerWrap .TextBox p br{
+    display: none;
+}
+.ResearchBannerWrap .ImgBox {
+    width: 39%;
+}
+.ResearchBannerWrap {
+    padding-top: 60px;
+}
+.EquityWrap ul li .Border {
+    background-size: 260px;
+    margin: 25px 0 20px;
+}
+.EquityWrap .ReportBtn{
+    margin: 25px 0;
+}
+.EquityWrap ul li h4 {
+    font-size: 16px;
+}
+.EquityWrapper .TitleWrap h3 {
+    font-size: 28px;
+    margin-bottom: 70px;
+}
+.EquityWrapper .TitleWrap h3:before {
+    height: 50px;
+}
+.EquityWrapper {
+    padding: 70px 0 30px;
+}
+.EquityWrapper.MutualBottom{
+    padding:60px 0 0px;
+}
+.EquityWrap .ReportBtn {
+    margin-top: 30px;
+}
+
+.MehtasWrapper h2 {
+    margin-bottom: 20px;
+}
+.MehtasWrapper p {
+    padding: 0 0%;
+}
+.VisionWrap {
+    padding-bottom: 30px;
+}
+.BusinessWrapper {
+    padding: 90px 0 50px;
+}
+.BusinessWrapper ul li {
+    font-size: 22px;
+}
+.BusinessWrapper:before, .BusinessWrapper:after, .EventsWrapper:before {
+    height: 50px;
+}
+.JourneyWrapper {
+    padding: 60px 0 0px;
+}
+.JourneyWrapper .JourneyWrap {
+    background-position: top 0px center;
+    padding: 50px 0 0;
+}
+.JourneyWrapper h4 {
+    font-size: 22px;
+}
+.JourneyWrapper .TitleWrap {
+    margin-bottom: 20px;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 24px;
+}
+
+.JourneyWrapper ul li:nth-child(3)::before {
+    left: 46%;
+}
+.EventsWrapper {
+    padding: 70px 0 60px;
+}
+.EventsWrapper:before {
+    height: 40px;
+}
+.EventsWrapper ul li h3 {
+    font-size: 18px;
+}
+
+
+.ServicesBannerWrap .ProductsWrap .LeftBox {
+    padding-top: 50px;
+}
+
+.ServicesBannerWrap #broking .slick-vertical .slick-slide{
+    height: 514px;
+}
+.ServicesBannerWrap #wealth-management .slick-vertical .slick-slide{
+    height: 676px;
+}
+.ServicesBannerWrap #investment-banking .slick-vertical .slick-slide{
+    height: 345px;
+}
+.ServicesBannerWrap #nbfc .slick-vertical .slick-slide{
+    height: 354px;
+}
+.ServicesBannerWrap #Services5 .slick-vertical .slick-slide{
+    height: 347px;
+}
+.ServicesBannerWrap ul.nav-pills li a {
+    padding: 8px 26px;
+}
+
+.ServicesBannerWrap .slick-vertical .slick-slide {
+    height: 647px;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li{
+    width: 50%;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(3n+1) {
+    clear: initial;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(2n+1) {
+    clear: both;
+}
+.ServicesBannerWrap .nav-pills.back .Products a b {
+    margin-top: 3px;
+}
+
+.raw-404.ConnectBannerWrap {
+    height: 100vh;
+    padding-top: 160px;
+    min-height: 600px;
+}
+.raw-404 h1 {
+    font-size: 200px !important;
+}
+.raw-404 p {
+    font-size: 20px;
+}
+
+.become-logo-wrap {
+    height: 70px;
+}
+.become-logo-wrap .become-logo a img {
+    height: 140px;
+}
+.become-partner-wrap .left-box h2 {
+    font-size: 46px;
+}
+.become-partner-wrap, .ftp-wrapper {
+    padding: 140px 0 60px;
+    min-height: calc(100vh - 70px);
+}
+.become-partner-wrap .right-box h4 {
+    font-size: 24px;
+}
+
+.management-wrap {
+    padding: 120px 0 60px;
+}
+.management-box {
+    margin-top: 30px;
+}
+.management-box .box .title-box h4 {
+    font-size: 18px;
+}
+.management-box .box .title-box {
+    padding: 12px 15px;
+}
+.management-box .box {
+    width: 33.33%;
+}
+.management-box .box:nth-child(4n+1) {
+    clear: initial;
+}
+.management-box .box:nth-child(3n+1) {
+    clear: both;
+}
+.management-box .box .img-box .img {
+    height: 240px;
+    line-height: 240px;
+}
+.management-box .box .img-box img {
+    max-height: 240px;
+}
+.key-document-wrap {
+    padding: 60px 0;
+}
+
+.video-gallery-wrap ul li h6 {
+    font-size: 16px;
+}
+.video-gallery-wrap ul li img {
+    height: 130px;
+}
+
+.request-form h4 {
+    font-size: 24px;
+}
+
+.ftp-wrapper ul {
+    width: 85%;
+}
+  .JourneyWrapper ul li:nth-child(8){
+   overflow:hidden;
+    }
+    .JourneyWrapper ul li:nth-child(1) {
+	margin: 20px 0 30px 0;
+}
+.JourneyWrapper ul li:nth-child(1)::before {
+	left: 40%;
+    transform: rotate(-27deg);
+	height: 148px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::before {
+	left: -100px;
+}
+.JourneyWrapper ul li:nth-child(1) .Col2.Box::after {
+	width: 60px;
+	left: -35px;
+}
+.JourneyWrapper ul li:nth-child(4)::before {
+	left: 44%;
+	height: 200px;
+}
+.JourneyWrapper ul li:nth-child(7) .Col1 {
+	padding-right: 270px;
+}
+.JourneyWrapper ul li:nth-child(7) .Col1::after {
+	width: 110px;
+}
+.JourneyWrapper ul li:nth-child(6)::before {
+	height: 180px;
+	transform: rotate(37deg);
+}
+}
+
+
+@media (max-width:991px){
+    
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+.container{
+	width:98%;
+}
+
+.logo {
+    width: 70px;
+    margin: 20px;
+}
+#header.affix .logo {
+	width: 50px;
+    margin: 0px 20px;
+}
+#header.affix .header_right {
+    padding: 9px 0;
+}
+.header_right {
+    width: 85%;
+}
+.OpanMenu form {
+    margin-right: 20px;
+    width: 180px;
+}
+.nav-toggle {
+    width: 50px;
+    height: 50px;
+    line-height: 46px;
+}
+.OpanMenu {
+    padding: 6px 20px;
+    margin-right: 50px;
+}
+.HomeBannerWrapper,
+.HomeBannerWrapper .item {
+    height: 30vh;
+    min-height: 410px;
+}
+.HomeBannerWrapper .HomeBanner {
+    top: 30%;
+}
+.HomeBannerWrapper h1 span {
+    font-size: 22px;
+}
+.HomeBannerWrapper h1,
+.ServicesBannerWrap h1 {
+    font-size: 32px;
+}
+h2 {
+    font-size: 28px;
+}
+.TabShouldWrapper .TabTitle {
+    padding: 40px 0;
+}
+.GenerateWrap .LeftBox .Box ul li {
+    margin-right: 10px;
+}
+.GenerateWrap .Box {
+	border-radius: 40px;
+    padding: 50px 40px;
+}
+.GenerateWrap .RightBox{
+	padding-top: 30px;
+}
+.GenerateWrap .RightBox .Box ul li {
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
+.GenerateWrap .Box .Col {
+    margin-bottom: 40px;
+}
+.GenerateWrap .RightBox .Box ul li:nth-child(2){
+	margin-right: 40px;
+}
+.GenerateWrap .GraphBox {
+    padding-top: 0px;
+}
+.GenerateWrap .Box h6 {
+    margin-bottom: 20px;
+}
+.BtnWrap {
+    padding: 13px 30px;
+}
+.AboutWrapper .VideoWrap {
+    padding-left: 10px;
+}
+.AboutWrapper {
+    padding: 60px 0;
+}
+.AboutWrapper .TextWrap h4 {
+    font-size: 22px;
+}
+.OpportunitiesWrap {
+    padding: 100px 0 50px;
+}
+.OpportunitiesWrap:before {
+    top: 50px;
+}
+.OpportunitiesWrap .emaillist input[type="email"] {
+    padding: 0 20px;
+    height: 52px;
+}
+.OpportunitiesWrap .emaillist input[type=submit] {
+    padding: 0 20px;
+    height: 52px;
+}
+.OpportunitiesWrap .TextWrap h4 {
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+.FooterWrapper {
+    padding: 50px 0;
+}
+.FooterMenu .MenuPdg {
+    padding: 0 0px;
+}
+.FooterWrapper .FooterMenu h6 {
+    font-size: 16px;
+}
+.FooterWrapper .FooterMenu ul li {
+    margin-bottom: 8px;
+}
+.FooterWrapper .FooterMenu ul li a {
+    font-size: 14px;
+}
+.FooterWrapper .TextWrapper p {
+    font-size: 16px;
+}
+.FooterWrapper .SocialWrap {
+    padding-top: 30px;
+}
+.FooterWrapper .LinkWrap {
+    padding-top: 40px;
+}
+
+.ServicesBannerWrap .RightBox .Img {
+    padding-top: 40px;
+}
+.ServicesBannerWrap {
+    padding: 150px 0 40px;
+}
+/*.ServicesBannerWrap .tab-pane {
+    padding-top: 0px;
+}*/
+.ServicesBannerBox .tab-content.height-col{
+    margin-top: 0px;
+}
+.ServicesBannerWrap h6 {
+    margin-bottom: 15px;
+}
+.ServicesBannerWrap h6 br{
+    display: none;
+}
+.ServicesBannerWrap h2 {
+    font-size: 17px !important;
+}
+.ServicesBannerWrap span {
+    font-size: 16px;
+}
+.scroll-down {
+    padding-top: 30px;
+}
+.ServicesBannerLink {
+    padding-top: 30px;
+}
+.ServicesBannerLink ul li a {
+    padding: 8px 20px;
+    font-size: 16px;
+}
+
+.ConnectBannerWrap {
+    padding: 110px 0 70px;
+}
+.ConnectBannerWrap p {
+    font-size: 18px;
+    line-height: 160%;
+}
+.ConnectBannerWrap h1 {
+    margin-bottom: 15px;
+    font-size: 26px;
+}
+.MapWrapper {
+    height: 320px;
+}
+.MapWrapper .ConnectDetailsBox {
+    width: 330px;
+    padding: 30px 30px;
+    left: 30px;
+    top: -30px;
+}
+.MapWrapper .ConnectDetailsBox ul li {
+    font-size: 14px;
+}
+
+.EducationBannerWrap {
+    padding: 140px 0 50px;
+}
+.EducationBannerWrap .item iframe {
+    height: 380px;
+}
+.EducationBannerWrap .GaleryBtn {
+    padding-top: 30px;
+}
+.ArticleWrapper h2 {
+    font-size: 28px !important;
+    margin-bottom: 40px;
+}
+.ArticleWrapper ul li .ImgBox img {
+    height: 170px;
+}
+.ArticleWrapper ul li .TextBox h4 br{
+    display: none;
+}
+.ArticleWrapper ul li .TextBox h4 {
+    font-size: 22px;
+}
+.slick-prev {
+    left: -40px;
+}
+.slick-next {
+    right: -40px;
+}
+.ArticleWrapper ul li .ImgBox {
+    width: 180px;
+}
+.ArticleWrapper ul li .TextBox {
+    width: calc(100% - 180px);
+}
+.ArticleWrapper ul {
+    max-height: 795px;
+}
+.ct-perfect-fourth {
+    width: 360px;
+}
+
+.ResearchBannerWrap .TextBox {
+    width: 31%;
+    padding-top: 60px;
+}
+.ResearchBannerWrap .TextBox h2 {
+    font-size: 30px;
+}
+.ResearchBannerWrap .TextBox p br{
+    display: none;
+}
+.ResearchBannerWrap .ImgBox {
+    width: 37%;
+}
+.ResearchBannerWrap {
+    padding-top: 60px;
+}
+.EquityWrap ul li .Border {
+    background-size: 290px;
+    margin: 25px 0 20px;
+}
+.EquityWrap .ReportBtn{
+    margin: 25px 0;
+}
+.EquityWrap ul li {
+    width: 49%;
+}
+.EquityWrap ul li:nth-child(3n+1) {
+    clear: initial;
+}
+.EquityWrap ul li:nth-child(2n+1) {
+    clear: both;
+}
+.EquityWrap ul li h4 {
+    font-size: 16px;
+}
+.EquityWrapper .TitleWrap h3 {
+    font-size: 26px;
+    margin-bottom: 60px;
+}
+.EquityWrapper .TitleWrap h3:before {
+    width: 2px;
+    height: 40px;
+    margin-left: -1px;
+}
+.EquityWrapper {
+    padding: 60px 0 30px;
+}
+.EquityWrapper.MutualBottom{
+    padding:60px 0 0px;
+}
+.EquityWrap .ReportBtn {
+    margin-top: 30px;
+}
+
+.MehtasWrapper {
+    padding: 20px 0 0px;
+}
+.MehtasWrapper h2 {
+    margin-bottom: 20px;
+}
+.MehtasWrapper p {
+    padding: 0 0%;
+}
+.VisionWrap {
+    padding-bottom: 20px;
+}
+.BusinessWrapper {
+    padding: 80px 0 40px;
+}
+.BusinessWrapper h2 {
+    margin-bottom: 30px;
+}
+.BusinessWrapper ul li {
+    font-size: 20px;
+    padding-left: 30px;
+    margin-bottom: 8px;
+}
+.BusinessWrapper ul li:before {
+    width: 12px;
+    height: 12px;
+    top: 8px;
+}
+.BusinessWrapper:before, .BusinessWrapper:after, .EventsWrapper:before {
+    height: 40px;
+}
+.JourneyWrapper {
+    padding: 50px 0 0px;
+}
+.JourneyWrapper h4 {
+    font-size: 20px;
+}
+.JourneyWrapper .TitleWrap {
+    margin-bottom: 10px;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 22px;
+}
+
+.EventsWrapper {
+    padding: 60px 0 50px;
+}
+.EventsWrapper:before {
+    height: 30px;
+}
+.EventsWrapper ul li {
+    padding: 6px;
+}
+.EventsWrapper ul li h3 {
+    font-size: 16px;
+}
+.JourneyWrapper ul li h3 sup {
+    font-size: 14px;
+}
+
+.ServicesBannerWrap ul.slick-dots li {
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.ServicesBannerWrap ul.nav-pills li a{
+    font-size: 14px;
+    padding: 8px 22px;
+}
+.TitleSlides {
+    height: 100px;
+}
+.ServicesBannerWrap .ProductsWrap .LeftBox {
+    padding-top: 0px;
+}
+
+.ServicesBannerWrap ul.nav-pills li {
+    margin: 3px;
+}
+.ServicesBannerWrap .RightBox .Img img {
+    max-height: 100px;
+}
+.ServicesBannerWrap #broking .slick-vertical .slick-slide{
+    height: 620px;
+}
+.ServicesBannerWrap #wealth-management .slick-vertical .slick-slide{
+    height: 835px;
+}
+.ServicesBannerWrap #investment-banking .slick-vertical .slick-slide{
+    height: 370px;
+}
+.ServicesBannerWrap #nbfc .slick-vertical .slick-slide{
+    height: 400px;
+}
+.ServicesBannerWrap #Services5 .slick-vertical .slick-slide{
+    height: 334px;
+}
+
+.ServicesBannerWrap .slick-vertical .slick-slide {
+    height: 735px;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li{
+    width: 50%;
+    font-size: 15px;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(3n+1) {
+    clear: initial;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(2n+1) {
+    clear: both;
+}
+.ServicesBannerWrap .nav-pills.back .Products a b {
+    font-size: 25px;
+    margin-top: 3px;
+}
+
+.raw-404.ConnectBannerWrap {
+    height: 100vh;
+    padding-top: 120px;
+    min-height: 540px;
+}
+.raw-404 h1 {
+    font-size: 200px !important;
+}
+.raw-404 p {
+    font-size: 20px;
+}
+.MehtasWrapper p br{
+    display: none;
+}
+.BusinessWrapper ul {
+    margin-bottom: 40px;
+}
+.BusinessWrapper .MapImg {
+    margin-bottom: 40px;
+}
+
+.become-logo-wrap {
+    height: 60px;
+}
+.become-logo-wrap .become-logo a {
+    padding: 15px 20px;
+}
+.become-logo-wrap .become-logo a img {
+    height: 120px;
+}
+.become-partner-wrap .left-box h4 {
+    font-size: 20px
+}
+.become-partner-wrap .left-box h2 {
+    font-size: 40px;
+}
+.become-partner-wrap, .ftp-wrapper {
+    padding: 120px 0 50px;
+    min-height: calc(100vh - 60px);
+}
+.become-partner-wrap .right-box h4 {
+    font-size: 24px;
+}
+.become-partner-wrap .right-box {
+    padding-left: 30px;
+}
+.become-partner-wrap .gform_wrapper ul.gform_fields li.gfield {
+    margin: 0 0 20px !important;
+}
+
+.management-wrap {
+    padding: 90px 0 40px;
+}
+.management-box {
+    margin-top: 30px;
+}
+.management-box .box .title-box h4 {
+    font-size: 16px;
+}
+.management-box .box .title-box h5 {
+    font-size: 16px;
+}
+.management-box .box .title-box {
+    padding: 12px 15px;
+}
+.management-box .box {
+    width: 33.33%;
+    padding: 10px 10px;
+}
+.management-box .box:nth-child(4n+1) {
+    clear: initial;
+}
+.management-box .box:nth-child(3n+1) {
+    clear: both;
+}
+.management-box .box .img-box .img {
+    height: 220px;
+    line-height: 220px;
+}
+.management-box .box .img-box img {
+    max-height: 220px;
+}
+.management-box .box .text-box p {
+    max-height: 200px;
+    overflow: scroll;
+}
+
+.key-document-wrap {
+    padding: 50px 0;
+}
+.key-document-wrap h5 {
+    font-size: 20px;
+}
+.key-document-wrap .box-wrap {
+    margin-bottom: 40px;
+}
+.page-template-kyc-document h1{
+    margin-bottom: 0px;
+}
+
+.video-gallery-wrap ul li h6 {
+    font-size: 16px;
+}
+.video-gallery-wrap ul li img {
+    height: 130px;
+}
+.video-gallery-wrap ul li {
+    width: 33.33%;
+}
+.video-gallery-wrap ul li:nth-child(4n+1) {
+    clear: initial;
+}
+.video-gallery-wrap ul li:nth-child(3n+1) {
+    clear: both;
+}
+
+.request-form h4 {
+    font-size: 24px;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield {
+    margin: 0 0 20px !important;
+}
+.request-form .gform_wrapper .gform_footer {
+    margin: 10px 0 0px;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li {
+    width: 33.33%;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li:nth-child(4n+1) {
+    clear: initial;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li:nth-child(3n+1) {
+    clear: both;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield:nth-last-child(2) label.gfield_label {
+    font-size: 18px;
+}
+
+.ftp-wrapper ul {
+    width: 100%;
+}
+
+.rakeshji-wrap {
+    padding: 30px 0 60px;
+}
+.rakeshji-wrap .text-wrap h4 {
+    font-size: 22px;
+}
+.JourneyWrapper ul li{
+    margin-bottom: 0px !important;
+}
+.JourneyWrapper ul li:nth-child(3):after{
+    display: none !important;
+}
+.JourneyWrapper ul li:before{
+    left: 9px !important;
+    transform: rotate(0deg) !important;
+    height: 100% !important;
+    border-right: 3px dashed #1d4487;
+}
+.JourneyWrapper ul li .Box{
+    padding: 0px 0 0 60px !important;
+    width: 100% !important;
+    float: left;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.JourneyWrapper ul li:last-child .Box{
+    margin-bottom: 0px;
+}
+.JourneyWrapper ul li .Box:before{
+    top: 0 !important;
+    left: 0 !important;
+    width: 20px;
+    height: 20px;
+    border: 4px solid #1d4487;
+}
+.JourneyWrapper ul li:nth-child(4) .Col2:before{
+	display:block;
+}
+.JourneyWrapper ul li .Box:after{
+    top: 9px !important;
+    left: 0 !important;
+    width: 50px !important;
+}
+.JourneyWrapper ul li p:last-child{
+    margin-bottom: 0px;
+}
+.JourneyWrapper ul li:nth-child(3) .Col2 {
+    margin-top: 0px;
+}
+.JourneyWrapper .JourneyWrap{
+    background-image: initial;
+}
+}
+@media only screen and (min-width:850px) and (max-width:1024px){
+
+
+}
+@media only screen and (min-width:900px) and (max-width:1024px){
+
+}
+@media only screen and (min-width:950px) and (max-width:1024px){
+
+}
+
+@media (max-width: 767px){
+
+header#header {
+    position: relative;
+    padding: 0;
+}
+header#header.affix {
+    padding: 0;
+}
+.logo,
+#header.affix .logo {
+    width: 60px;
+    margin: 15px 20px;
+}#header.affix .header_right {
+    padding: 0;
+}
+.nav_open .nav-toggle {
+    border: 1px solid #1b4388;
+}
+.res_navigation {
+	position: fixed;
+	top: 0;
+    right: 20px;
+    padding: 32px 0;
+    transition: all 0.25s ease 0s;
+	-webkit-transition: all 0.25s ease 0s;
+    -moz-transition: all 0.25s ease 0s;
+    border: none;
+}
+.header_right {
+    width: 100%;
+    background-color: #ffc90e;
+}
+.OpanMenu form {
+    margin-right: 0px;
+    position: absolute;
+    right: 90px;
+    top: 39px;
+}
+.nav-toggle {
+    width: 50px;
+    height: 50px;
+    line-height: 44px;
+    border: 1px solid #fff;
+}
+.header_main {
+    position: relative;
+}
+.OpanMenu {
+    padding: 5px 20px;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.OpanMenu .MenuLink {
+    padding: 0px 0 0;
+    width: 100%;
+}
+.HomeBannerWrapper .TextBox {
+    width: 100%;
+    padding-left: 30px;
+}
+.TabShouldWrapper .TabMain ul {
+    text-align: center;
+}
+.HomeBannerWrapper{
+    height: initial;
+    min-height: initial;
+} 
+.HomeBannerWrapper .item {
+    height: 250px;
+    margin: 0 0 50px;
+    min-height: initial;
+    background-position: center center !important;
+}
+.HomeBannerWrapper .BorderBtn {
+    margin-top: 20px;
+    padding: 8px 10px;
+    font-size: 14px;
+}
+.TabShouldWrapper .TabMain ul li,
+.TabShouldWrapper .TabMain a,
+.HomeStickyBtn a {
+    padding: 12px 20px;
+}
+.TabShouldWrapper .TabTitle h2{
+    line-height: 120%;
+}
+.HomeBannerWrapper .HomeBanner {
+    top: 8%;
+    height: 100%;
+}
+.HomeBannerWrapper h1 span {
+    font-size: 18px;
+}
+.HomeBannerWrapper h1 {
+    font-size: 22px;
+}
+.ServicesBannerWrap h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 26px;
+}
+p {
+    font-size: 16px;
+    line-height: 160%;
+}
+.TabShouldWrapper .TabTitle {
+    padding: 35px 0;
+}
+.GenerateWrap {
+    padding: 40px 0;
+}
+.GenerateWrap .LeftBox .Box ul li {
+    margin-right: 10px;
+    padding: 5px 0;
+}
+.GenerateWrap .Box {
+    border-radius: 30px;
+    padding: 40px 30px;
+}
+.GenerateWrap .Box [type="radio"]:checked + label, .GenerateWrap .Box [type="radio"]:not(:checked) + label{
+    width: 85px;
+    padding: 7px 12px;
+}
+.GenerateWrap .RightBox{
+	padding-top: 30px;
+}
+.GenerateWrap .RightBox .Box ul li {
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
+.GenerateWrap .Box .Col {
+    margin-bottom: 30px;
+}
+.GenerateWrap .RightBox .Box ul li:nth-child(2){
+	margin-right: 30px;
+}
+.GenerateWrap .GraphBox {
+    padding-top: 0px;
+}
+.GenerateWrap .Box h6 {
+    margin-bottom: 10px;
+}
+.GenerateWrap .RightBox .Box h6 {
+    margin-bottom: 20px;
+}
+.BtnWrap {
+    padding: 13px 30px;
+}
+.AboutWrapper .VideoWrap {
+    padding-left: 15px;
+    margin: 40px 0 0;
+}
+.AboutWrapper {
+    padding: 60px 0;
+}
+.AboutWrapper .TextWrap h4 {
+    font-size: 20px;
+}
+.VideoWrap iframe {
+    height: 240px;
+}
+.OpportunitiesWrap {
+    padding: 100px 0 50px;
+}
+.OpportunitiesWrap:before {
+    top: 40px;
+}
+.OpportunitiesWrap .emaillist {
+    width: 100%;
+}
+.OpportunitiesWrap .emaillist input[type="email"] {
+    padding: 0 20px;
+    height: 50px;
+}
+.OpportunitiesWrap .emaillist .es-field-wrap {
+    width: calc(100% - 140px);
+}
+.OpportunitiesWrap .emaillist input[type=submit] {
+    padding: 0 20px;
+    height: 50px;
+    font-size: 16px;
+    width: 140px;
+}
+.OpportunitiesWrap .TextWrap h4 {
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+.FooterWrapper {
+    padding: 40px 0 70px;
+}
+.FooterMenu .MenuPdg {
+    padding: 0 0px;
+}
+.FooterMenu .MenuPdg .col-sm-3{
+    width: 50%;
+    margin: 15px 0;
+}
+.FooterMenu .MenuPdg .col-sm-3:nth-child(2n+1){
+    clear: both;
+}
+.FooterWrapper .FooterMenu h6 {
+    font-size: 18px;
+}
+.FooterWrapper .FooterMenu ul li {
+    margin-bottom: 8px;
+}
+.FooterWrapper .LinkWrap .TextBox li {
+    font-size: 14px;
+    margin: 2px 0;
+    line-height: 130%;
+}
+.FooterWrapper .LinkWrap ul li a,
+.FooterWrapper .FooterMenu ul li a {
+    font-size: 14px;
+}
+.FooterWrapper .LinkWrap .TextBox,
+.FooterWrapper .TextWrapper {
+    padding-top: 40px;
+}
+.FooterWrapper .LinkWrap .TextBox:before, 
+.FooterWrapper .TextWrapper:before {
+    top: 20px;
+}
+.FooterWrapper .TextWrapper p {
+    font-size: 15px;
+}
+.FooterWrapper .SocialWrap {
+    padding-top: 30px;
+}
+.FooterWrapper .LinkWrap {
+    padding-top: 30px;
+}
+.s-back-to-top {
+    right: 35px;
+}
+
+
+.ServicesBannerWrap {
+    padding: 40px 0 40px;
+}
+.ServicesBannerWrap p {
+    margin-bottom: 20px;
+}
+.ServicesBannerWrap .RightBox{
+    margin-top: 20px;
+}
+.ServicesBannerWrap .RightBox .Img {
+    padding-top: 40px;
+    text-align: center;
+}
+.ServicesBannerWrap h6 {
+    margin-bottom: 15px;
+}
+.ServicesBannerWrap h6 br{
+    display: none;
+}
+.scroll-down {
+    padding-top: 30px;
+}
+.ServicesBannerLink {
+    padding-top: 30px;
+}
+.ServicesBannerLink ul li a {
+    padding: 8px 20px;
+    font-size: 16px;
+}
+
+.ConnectBannerWrap {
+    padding: 50px 0 70px;
+}
+.ConnectBannerWrap p br{
+    display: none;
+}
+.ConnectBannerWrap p {
+    font-size: 18px;
+    line-height: 150%;
+}
+.ConnectBannerWrap h1 {
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+.MapWrapper {
+    height: 350px;
+}
+.MapWrapper .ConnectDetailsBox {
+    width: 310px;
+    padding: 20px 20px;
+    left: 30px;
+    top: -30px;
+}
+.MapWrapper .ConnectDetailsBox ul li {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.EducationBannerWrap {
+    padding: 50px 0;
+}
+.EducationBannerWrap .item iframe {
+    height: 250px;
+}
+.EducationBannerWrap .GaleryBtn {
+    padding-top: 20px;
+}
+.ArticleWrapper h2 {
+    font-size: 26px !important;
+    margin-bottom: 30px;
+}
+.ArticleWrapper ul li {
+    padding: 8px;
+}
+.ArticleWrapper ul li .TextBox h4 {
+    font-size: 16px;
+}
+.ArticleWrapper ul li .TextBox h4 br{
+    display: none;
+}
+.slick-prev {
+    left: -40px;
+}
+.slick-next {
+    right: -40px;
+}
+.ArticleWrapper ul li .ImgBox {
+    width: 90px;
+}
+.ArticleWrapper ul li .TextBox {
+    width: calc(100% - 100px);
+    padding: 0 20px 30px;
+    vertical-align: top;
+}
+.ArticleWrapper ul li .ImgBox img {
+    height: 100px;
+}
+.ArticleWrapper ul {
+    max-height: 470px;
+}
+.ArticleWrapper ul li .Read {
+    font-size: 12px;
+    padding: 4px 15px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.StickyBtn a {
+    margin: 3px 3px;
+    border-radius: 10px 10px;
+}
+.ct-perfect-fourth {
+    width: 360px;
+}
+
+.ResearchBannerWrap .TextBox {
+    width: 100%;
+    padding-top: 0px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    margin: 15px 0;
+}
+.ResearchBannerWrap .TextBox h2 {
+    font-size: 26px;
+}
+.ResearchBannerWrap .TextBox p br{
+    display: none;
+}
+.ResearchBannerWrap .ImgBox {
+    display: none;
+}
+.ResearchBannerWrap {
+    padding: 30px 0;
+    position: relative;
+}
+.ResearchWrapper:before{
+    display: none;
+}
+.EquityWrap ul li .Border {
+    background-size: 90%;
+    margin: 25px 0 20px;
+    background-position: center top 28%;
+}
+.EquityWrap .ReportBtn{
+    margin: 25px 0;
+}
+.EquityWrap ul li {
+    width: 100%;
+}
+.EquityWrap ul li:nth-child(3n+1) {
+    clear: initial;
+}
+.EquityWrapper .TitleWrap h3 {
+    font-size: 26px;
+    margin-bottom: 45px;
+}
+.EquityWrapper .TitleWrap h3:before {
+    width: 2px;
+    height: 30px;
+    margin-left: -1px;
+}
+.EquityWrapper {
+    padding: 60px 0 30px;
+    box-shadow: 0px -15px 20px -18px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px -15px 20px -18px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0px -15px 20px -18px rgba(0,0,0,0.5);
+}
+.EquityWrapper.MutualBottom{
+    padding:60px 0 0px;
+}
+.EquityWrap .ReportBtn {
+    margin-top: 30px;
+}
+.mCSB_scrollTools,
+.mCS-inset.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, 
+.mCS-inset-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, 
+.mCS-inset-2.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, 
+.mCS-inset-2-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, 
+.mCS-inset-3.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, 
+.mCS-inset-3-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    width: 6px;
+}
+.mCSB_inside > .mCSB_container {
+    margin-right: 6px;
+}
+
+
+.MehtasWrapper {
+    padding: 50px 0 0px;
+}
+.MehtasWrapper h2 {
+    margin-bottom: 20px;
+}
+.MehtasWrapper p {
+    padding: 0 0%;
+}
+.MehtasWrapper p br{
+    display: none;
+}
+.VisionWrap {
+    padding-bottom: 20px;
+}
+.BusinessWrapper {
+    padding: 80px 0 40px;
+}
+.BusinessWrapper h2 {
+    margin-bottom: 30px;
+}
+.BusinessWrapper ul li {
+    font-size: 16px;
+    padding-left: 20px;
+    margin-bottom: 6px;
+}
+.BusinessWrapper ul li:before {
+    width: 8px;
+    height: 8px;
+    top: 6px;
+}
+.BusinessWrapper ul {
+    width: 150px;
+    margin-bottom: 40px;
+}
+.BusinessWrapper .MapImg {
+    width: 270px;
+    margin-bottom: 40px;
+}
+.BusinessWrapper:before, .BusinessWrapper:after, .EventsWrapper:before {
+    height: 40px;
+}
+.JourneyWrapper {
+    padding: 50px 0 0px;
+}
+.JourneyWrapper h4 {
+    font-size: 18px;
+}
+.JourneyWrapper .TitleWrap {
+    margin-bottom: 10px;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 22px;
+}
+.JourneyWrapper ul li h5 {
+    font-size: 16px;
+}
+.JourneyWrapper ul li{
+    margin-bottom: 0px !important;
+}
+.JourneyWrapper ul li:nth-child(3):after{
+    display: none !important;
+}
+.JourneyWrapper ul li:before{
+    left: 9px !important;
+    transform: rotate(0deg) !important;
+    height: 100% !important;
+    border-right: 3px dashed #1d4487;
+}
+.JourneyWrapper ul li .Box{
+    padding: 0px 0 0 60px !important;
+    width: 100% !important;
+    float: left;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.JourneyWrapper ul li:last-child .Box{
+    margin-bottom: 0px;
+}
+.JourneyWrapper ul li .Box:before{
+    top: 0 !important;
+    left: 0 !important;
+    width: 20px;
+    height: 20px;
+    border: 4px solid #1d4487;
+}
+.JourneyWrapper ul li .Box:after{
+    top: 9px !important;
+    left: 0 !important;
+    width: 50px !important;
+}
+.JourneyWrapper ul li p:last-child{
+    margin-bottom: 0px;
+}
+.JourneyWrapper ul li:nth-child(3) .Col2 {
+    margin-top: 0px;
+}
+.JourneyWrapper .JourneyWrap{
+    background-image: initial;
+}
+.EventsWrapper {
+    padding: 60px 0 50px;
+}
+.EventsWrapper:before {
+    height: 30px;
+}
+.EventsWrapper ul li {
+    padding: 15px 0;
+    width: 100%;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 20px;
+}
+.JourneyWrapper .TitleWrap {
+    margin-bottom: 0px;
+}
+.JourneyWrapper ul li h3 sup {
+    font-size: 12px;
+}
+
+.ServicesBannerWrap #broking .slick-vertical .slick-slide{
+    height: 984px;
+}
+.ServicesBannerWrap #wealth-management .slick-vertical .slick-slide{
+    height: 1140px;
+}
+.ServicesBannerWrap #investment-banking .slick-vertical .slick-slide{
+    height: 700px;
+}
+.ServicesBannerWrap #nbfc .slick-vertical .slick-slide{
+    height: 750px;
+}
+.ServicesBannerWrap #Services5 .slick-vertical .slick-slide{
+    height: 740px;
+}
+
+.ServicesBannerWrap .slick-vertical .slick-slide {
+    height: 1238px;
+}
+.ServicesBannerWrap ul.slick-dots li {
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.ServicesBannerWrap ul.nav-pills li a{
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.ServicesBannerWrap .slick-slide img {
+    width: 260px;
+    display: inline-block;
+}
+
+.nav-toggle:before {
+    right: -160px;
+    top: -160px;
+}
+.nav-toggle.active:before {
+    width: 500px;
+    height: 500px;
+    border:100px solid rgba(0,0,0,0);
+}
+.TitleSlides {
+    height: 50px;
+}
+.ServicesBannerWrap .ProductsWrap .LeftBox {
+    padding-top: 0;
+}
+
+.ServicesBannerWrap .PmsLeftBox .Box li{
+    width: 100%;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(3n+1) {
+    clear: initial;
+}
+.ServicesBannerWrap .PmsLeftBox .Box li:nth-child(2n+1) {
+    clear: initial;
+}
+.ServicesBannerWrap h1 a {
+    font-size: 16px;
+    padding: 5px 15px;
+}
+/*.ServicesBannerWrap .tab-pane {
+    padding-top: 0px;
+}*/
+.ServicesBannerBox .tab-content.height-col{
+    margin-top: 0px;
+}
+.mobile-app {
+    display: block;
+    padding: 0;
+    text-align: center;
+}
+	
+	.mobile-app1 {
+    display: block;
+    padding: 0;
+    text-align: center;
+}
+.ServicesBannerWrap .nav-pills.back .Products a b {
+    font-size: 25px;
+    margin-top: 3px;
+}
+
+.raw-404.ConnectBannerWrap{
+    padding-top: 50px;
+    min-height: 420px;
+}
+.raw-404 h1 {
+    font-size: 150px !important;
+}
+.raw-404 p {
+    font-size: 20px;
+}
+
+.RightBtn.HomeStickyBtn .account-btn a,
+.TabShouldWrapper .account-btn a {
+    width: 150px;
+    font-size: 14px;
+}
+.ConnectBtn .account-btn a {
+    width: 170px;
+    font-size: 14px;
+}
+.ConnectBtn.StickyBtn .account-btn a{
+    margin: 0px;
+}
+.TabShouldWrapper .account-btn,
+.RightBtn.HomeStickyBtn .account-btn{
+    width: 320px;
+}
+.ConnectBtn .account-btn {
+    width: 350px;
+}
+
+.HomeBannerWrapper .slick-prev, .HomeBannerWrapper .slick-next{
+    width: 20px;
+    height: 30px;
+    background-size: 8px;
+}
+.HomeBannerWrapper .slick-next{
+    right: 50px;
+}
+.HomeBannerWrapper .slick-prev{
+    left: 50px;
+}
+
+
+/*.services-wrap {
+    height: 350px;
+}*/
+.pdgt30 {
+    padding-top: 10px;
+}
+.ServicesBannerWrap ul.slick-dots, 
+.ServicesBannerWrap ul.nav-pills {
+    margin-top: 30px;
+}
+
+body .es_subscription_message.success {
+    padding: 15px 15px;
+}
+
+.OpanMenu .login,
+.OpanMenu .MenuLink > a {
+    padding: 10px 0;
+}
+.OpanMenu .MenuLink span{
+    padding: 13px 0;
+}
+.OpanMenu .login a,
+.OpanMenu .MenuLink .login span{
+    padding: 0px;
+}
+.OpanMenu .login:hover .dropdown {
+    top: 36px;
+}
+.OpanMenu .login .dropdown .sub .sup-dropdown {
+    right: -170px;
+    left: initial;
+}
+.OpanMenu .login .dropdown {
+    left: -20px;
+}
+.OpanMenu .login .dropdown a {
+    padding: 8px 15px;
+}
+.OpanMenu .login .dropdown .sub:hover .sup-dropdown {
+    height: 98px;
+}
+.OpanMenu .login:hover .dropdown {
+    height: 66px;
+}
+
+.not-found {
+    height: calc(100vh - 160px);
+    padding: 100px 0;
+}
+
+.become-logo-wrap {
+    height: 50px;
+}
+.become-logo-wrap .become-logo a {
+    padding: 12px 15px;
+}
+.become-logo-wrap .become-logo a img {
+    height: 100px;
+}
+.become-partner-wrap .left-box h4 {
+    font-size: 20px
+}
+.become-partner-wrap .left-box h2 {
+    font-size: 36px;
+}
+.become-partner-wrap, .ftp-wrapper {
+    padding: 110px 0 50px;
+    min-height: calc(100vh - 50px);
+}
+.become-partner-wrap .right-box h4 {
+    font-size: 24px;
+}
+.become-partner-wrap .right-box {
+    padding-left: 15px;
+}
+.become-partner-wrap.feedback-wrap .right-box,
+.become-partner-wrap.careers-wrap .right-box {
+    padding-top: 30px;
+}
+.become-partner-wrap .gform_wrapper ul.gform_fields li.gfield {
+    margin: 0 0 20px !important;
+}
+.become-partner-wrap input[type=submit] {
+    margin: 10px 0 0px !important;
+}
+.default-page h2 {
+    font-size: 24px;
+}
+.default-page ul li{
+    font-size: 16px;
+}
+.default-page h3 {
+    font-size: 20px;
+}
+.default-page h5 {
+    font-size: 18px;
+}
+
+
+.management-wrap {
+    padding: 40px 0 40px;
+}
+.management-box {
+    margin-top: 20px;
+}
+.management-box .box .title-box h4 {
+    font-size: 16px;
+}
+.management-box .box .title-box h5 {
+    font-size: 16px;
+}
+.management-box .box .title-box {
+    padding: 12px 15px;
+}
+.management-box .box {
+    width: 50%;
+    padding: 10px 10px;
+}
+.management-box .box:nth-child(4n+1) {
+    clear: initial;
+}
+.management-box .box:nth-child(3n+1) {
+    clear: initial;
+}
+.management-box .box:nth-child(2n+1) {
+    clear: both;
+}
+.management-box .box .img-box .img {
+    height: 220px;
+    line-height: 220px;
+}
+.management-box .box .img-box img {
+    max-height: 220px;
+}
+.management-box .box .text-box p {
+    max-height: 200px;
+    overflow: scroll;
+}
+
+.key-document-wrap {
+    padding: 50px 0;
+}
+.key-document-wrap h5 {
+    font-size: 20px;
+}
+.key-document-wrap .box-wrap {
+    margin-bottom: 40px;
+}
+.page-template-kyc-document h1{
+    margin-bottom: 0px;
+}
+.page-template-kyc-document .ConnectBannerWrap {
+    padding: 50px 0 50px;
+}
+.key-document-wrap .table-wrap th, .key-document-wrap .table-wrap td {
+    padding: 10px 15px;
+    font-size: 14px;
+    line-height: 120%;
+}
+.key-document-wrap .table-wrap thead th:first-child {
+    width: 70px;
+}
+.key-document-wrap .table-wrap thead th:last-child {
+    width: 90px;
+}
+
+.video-gallery-wrap ul li h6 {
+    font-size: 16px;
+}
+.video-gallery-wrap ul li img {
+    height: 130px;
+}
+.video-gallery-wrap ul li {
+    width: 50%;
+}
+.video-gallery-wrap ul li:nth-child(3n+1) {
+    clear: initial;
+}
+.video-gallery-wrap ul li:nth-child(2n+1) {
+    clear: both;
+}
+.video-gallery-wrap {
+    padding: 40px 0;
+}
+
+.request-form h4 {
+    font-size: 22px;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield {
+    width: 100%;
+    padding: 0 0px;
+    margin: 0 0 20px !important;
+}
+.request-form .gform_wrapper .gform_footer {
+    margin: 10px 0 0px;
+}
+.request-form {
+    padding-top: 40px;
+}
+
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li {
+    width: 50%;
+    margin: 0 0 12px;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li:nth-child(4n+1) {
+    clear: initial;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li:nth-child(2n+1) {
+    clear: both;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield:nth-last-child(2) label.gfield_label {
+    font-size: 18px;
+}
+
+.ftp-wrapper ul {
+    width: 100%;
+}
+.ftp-wrapper ul li .date{
+    width: 100px;
+}
+.ftp-wrapper ul li .time{
+    width: 90px;
+}
+
+.ftp-wrapper ul li .link{
+    width: calc(100% - 190px);
+}
+.ftp-wrapper ul li div {
+    padding: 10px 15px;
+    font-size: 14px;
+}
+
+.rakeshji-wrap {
+    padding: 0px 0 60px;
+}
+.rakeshji-wrap .img-wrap{
+    text-align: center;
+}
+.rakeshji-wrap .img-wrap img{
+    height: 280px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.rakeshji-wrap .text-wrap h4 {
+    font-size: 22px;
+}
+.rakeshji-wrap .text-wrap h5 {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.page-template-mehta-world #header {
+    background-color: transparent;
+}
+
+.modal .modal-dialog {
+    width: 90%;
+}
+.modal .modal-dialog button.close {
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+}
+
+.HomeBannerWrapper .box {
+    margin-top: 10px;
+    position: absolute;
+    bottom: -26px;
+    text-align: center;
+    left: 0;
+}
+.HomeBanner.offer{
+    display: block !important;
+}
+
+.newsletter h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.newsletter .service-content {
+    overflow: auto;
+}
+.newsletter .service-content table{
+    width: 600px;
+}
+.newsletter .service-content td {
+    padding: 10px 15px;
+    font-size: 14px;
+}
+.newsletter .service-content th {
+    padding: 10px 15px;
+    font-size: 15px;
+}
+
+.nav_main ul li {
+    padding: 3px 0;
+}
+
+}
+
+
+
+
+
+@media only screen and (max-device-width: 480px) { 
+html {
+	-webkit-text-size-adjust: none; 
+}
+}
+@media only screen and (min-width:480px) and (max-width:767px){
+.container{
+	width:96%;
+}
+
+}
+@media only screen and (min-width:550px) and (max-width:767px){
+
+}
+@media only screen and (min-width:600px) and (max-width:767px){
+
+}
+@media only screen and (min-width:650px) and (max-width:767px){
+
+}
+@media only screen and (min-width:700px) and (max-width:767px){
+
+}
+
+
+@media (max-width:620px){
+.ConnectBtn .account-btn {
+    right: -50%;
+}
+}
+
+
+@media (max-width:479px){
+.container{
+	width:98%;
+}
+
+.nav-toggle {
+    width: 40px;
+    height: 40px;
+    line-height: 20px;
+    padding: 7px;
+}
+.logo, #header.affix .logo {
+    width: 50px;
+    margin: 10px 15px;
+}
+.res_navigation {
+    right: 15px;
+    padding: 25px 0;
+}
+.OpanMenu form {
+    right: 65px;
+    top: 29px;
+    width: 170px;
+}
+.OpanMenu form input[type=search] {
+    padding: 8px 15px;
+}
+.OpanMenu span {
+    margin: -3px 5px 0;
+}
+.OpanMenu a {
+    font-size: 13px;
+}
+.nav_main {
+    width: 240px;
+}
+.nav_main ul li a {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+.nav_main ul li {
+    padding: 0px 0;
+}
+.HomeBannerWrapper h1 span {
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+.HomeBannerWrapper h1 {
+    font-size: 14px;
+}
+.ServicesBannerWrap h1 {
+    font-size: 22px;
+}
+.HomeBannerWrapper{
+    height: initial;
+}
+.HomeBannerWrapper .item {
+    height: 190px;
+    margin: 0px 0 40px;
+}
+.HomeBannerWrapper .slick-slide:first-child .item{
+    margin-bottom: 0px;
+}
+/*.HomeBannerWrapper .slick-slide:first-child .item,
+.HomeBannerWrapper .slick-slide:nth-child(2) .item{
+    background-position: center left !important;
+}
+.HomeBannerWrapper .item {
+    background-position: center center !important;
+}*/
+.TabShouldWrapper .TabMain ul li,
+.TabShouldWrapper .TabMain a,
+.HomeStickyBtn a {
+    padding: 8px 15px;
+    font-size: 12px;
+}
+.TabShouldWrapper .TabMain ul li:first-child,
+.TabShouldWrapper .TabMain a:first-child,
+.RightBtn.HomeStickyBtn a:nth-child(2) {
+    margin-right: 5px;
+}
+.TabShouldWrapper .TabMain {
+    margin-top: -32px;
+}
+h2 {
+    font-size: 24px;
+}
+.GenerateWrap .Box {
+    border-radius: 25px;
+    padding: 30px 25px;
+}
+.BtnWrap {
+    padding: 10px 25px;
+    font-size: 16px;
+}
+.GenerateWrap .RightBox .Box ul li {
+    margin-bottom: 20px;
+}
+.VideoWrap iframe {
+    height: 200px;
+}
+.OpportunitiesWrap {
+    padding: 80px 0 40px;
+}
+.OpportunitiesWrap:before {
+    top: 30px;
+    height: 35px;
+}
+.OpportunitiesWrap .TextWrap h4 {
+    margin-bottom: 20px;
+}
+.OpportunitiesWrap .emaillist .es-field-wrap {
+    width: 100%;
+}
+.OpportunitiesWrap .emaillist input[type=submit] {
+    padding: 0 20px;
+    height: 50px;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 6px;
+}
+.FooterMenu .MenuPdg .col-sm-3 {
+    width: 100%;
+    margin: 10px 0;
+    text-align: center;
+}
+.FooterWrapper .FooterMenu ul li {
+    width: auto;
+    float: none;
+    margin-bottom: 6px;
+    display: inline-block;
+    padding: 0 8px;
+}
+.FooterWrapper .TextWrapper p {
+    font-size: 14px;
+}
+.FooterWrapper .SocialWrap {
+    padding-top: 20px;
+}
+.FooterWrapper .LinkWrap {
+    padding-top: 20px;
+}
+
+.ServicesBannerWrap h6 {
+    font-size: 16px;
+}
+.ServicesBannerWrap h2 {
+    font-size: 18px !important;
+}
+.ServicesBannerWrap span {
+    font-size: 16px;
+}
+.ServicesBannerLink ul li a {
+    padding: 8px 13px;
+    font-size: 14px;
+}
+.ServicesBannerLink ul li {
+    padding: 0 1px;
+    margin: 2px 0;
+}
+.MapWrapper .ConnectDetailsBox {
+    width: 90%;
+    left: 5%;
+}
+.MapWrapper .ConnectDetailsBox ul li.Loc br{
+    display: none;
+}
+.ConnectBannerWrap h1 {
+    line-height: 120%;
+}
+.ConnectBannerWrap p {
+    font-size: 16px;
+}
+
+.EducationBannerWrap {
+    padding: 40px 0;
+}
+.EducationBannerWrap .item iframe {
+    height: 200px;
+    box-shadow: none;
+}
+.slick-slide {
+    margin: 0px 10px;
+}
+.slick-prev {
+    left: -42px;
+}
+.slick-next {
+    right: -42px;
+}
+.BorderBtn {
+    font-size: 14px;
+    padding: 10px 24px;
+}
+.ArticleWrapper h2 {
+    font-size: 22px !important;
+    margin-bottom: 25px;
+}
+.ArticleWrapper ul {
+    max-height: 705px;
+}
+.ArticleWrapper ul li {
+    padding: 10px;
+}
+.ArticleWrapper ul li .ImgBox {
+    display: inline-block;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+}
+.ArticleWrapper ul li .ImgBox img{
+    object-fit: contain;
+    height: auto;
+}
+.ArticleWrapper ul li .TextBox {
+    width: calc(100%);
+    display: inline-block;
+    padding: 10px 0 0px;
+}
+.ArticleWrapper ul li .Read {
+    position: initial;
+    margin-top: 10px;
+}
+.StickyBtn a{
+    width: 230px;
+}
+.EducationBannerWrap .GaleryBtn {
+    padding-top: 10px;
+}
+.ct-perfect-fourth:before {
+    padding-bottom: 190px;
+}
+.ct-perfect-fourth {
+    width: 100%;
+}
+
+.ResearchBannerWrap .TextBox h2 {
+    font-size: 22px;
+}
+.EquityWrapper {
+    padding: 50px 0 20px;
+}
+.EquityWrapper.MutualBottom {
+    padding: 50px 0 0px;
+}
+.EquityWrap ul li .Border {
+    margin: 20px 0 10px;
+}
+.EquityWrapper .TitleWrap h3 {
+    font-size: 24px;
+}
+.BusinessWrapper ul {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.BusinessWrapper .MapImg {
+    width: 280px;
+    margin-bottom: 30px;
+}
+.JourneyWrapper h4 {
+    font-size: 16px;
+}
+.JourneyWrapper .JourneyWrap {
+    padding: 40px 0;
+}
+.JourneyWrapper ul li .Box:after {
+    width: 40px !important;
+}
+.JourneyWrapper ul li .Box {
+    padding: 0px 0 0 50px !important;
+    margin-bottom: 30px;
+}
+.JourneyWrapper ul li h3 {
+    font-size: 18px;
+}
+
+.ServicesBannerWrap #broking .slick-vertical .slick-slide{
+    height: 1230px;
+}
+.ServicesBannerWrap #wealth-management .slick-vertical .slick-slide{
+    height: 1470px;
+}
+.ServicesBannerWrap #investment-banking .slick-vertical .slick-slide{
+    height: 850px;
+}
+.ServicesBannerWrap #nbfc .slick-vertical .slick-slide{
+    height: 925px;
+}
+.ServicesBannerWrap #Services5 .slick-vertical .slick-slide{
+    height: 845px;
+}
+
+.ServicesBannerWrap .slick-vertical .slick-slide {
+    height: 1505px;
+}
+.ServicesBannerWrap ul.slick-dots li {
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.ServicesBannerWrap ul.nav-pills li a{
+    font-size: 16px;
+    padding: 8px 24px;
+}
+.ServicesBannerWrap .RightBox .Img {
+    padding-top: 30px;
+}
+.ServicesBannerWrap .slick-slide img {
+    width: 220px;
+    display: inline-block;
+}
+.LeftBtn.HomeStickyBtn {
+    left: -192px;
+    width: 416px;
+}
+.RightBtn.HomeStickyBtn {
+    right: -192px;
+    width: 416px;
+}
+.TitleSlides {
+    height: 64px;
+}
+.ServicesBannerWrap h1 a {
+    font-size: 14px;
+    padding: 5px 15px;
+}
+
+.raw-404 h1 {
+    font-size: 120px !important;
+    margin-bottom: 0px;
+}
+.raw-404 p {
+    font-size: 18px !important;
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+.raw-404.ConnectBannerWrap {
+    padding-top: 40px;
+    min-height: 370px;
+    padding-bottom: 40px;
+}
+
+.RightBtn.HomeStickyBtn .account-btn a,
+.TabShouldWrapper .account-btn a,
+.ConnectBtn .account-btn a {
+    width: 130px;
+    font-size: 12px;
+}
+.RightBtn.HomeStickyBtn .account-btn,
+.ConnectBtn .account-btn {
+    top: -60px;
+    width: 280px;
+}
+.TabShouldWrapper .account-btn {
+    top: -55px;
+    width: 270px;
+    right: 5px;
+}
+.ConnectBtn .account-btn {
+    top: -75px;
+    width: 270px;
+    right: 50%;
+    transform: translate(50%,0);
+}
+.HomeBannerWrapper .slick-next{
+    right: 40px;
+}
+.HomeBannerWrapper .slick-prev{
+    left: 40px;
+}
+/*.services-wrap {
+    height: 300px;
+}*/
+
+body .es_subscription_message.success {
+    font-size: 14px;
+    padding: 15px 15px;
+}
+
+.OpanMenu .login .dropdown {
+    left: -28px;
+    width: 130px;
+}
+.OpanMenu .login .dropdown .sub .sup-dropdown {
+    right: -140px;
+    width: 140px;
+}
+
+.not-found {
+    height: calc(100vh - 136px);
+    padding: 100px 0;
+}
+.not-found h1,
+.not-found h2{
+    font-size: 36px;
+}
+
+.become-partner-wrap .left-box h4 {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.become-partner-wrap .left-box h2 {
+    font-size: 26px;
+    margin-top: 20px;
+}
+.become-partner-wrap .right-box h4 {
+    font-size: 20px;
+}
+.become-partner-wrap input[type=submit] {
+    font-size: 16px !important;
+}
+
+.management-box .box {
+    width: 100%;
+    padding: 10px 0px;
+}
+.management-box .box .title-box h4 {
+    font-size: 18px;
+}
+.management-box .box .title-box h5 {
+    font-size: 18px;
+}
+
+.key-document-wrap {
+    padding: 40px 0;
+}
+.key-document-wrap .table-wrap th, .key-document-wrap .table-wrap td {
+    padding: 8px 10px;
+    font-size: 13px;
+    line-height: 120%;
+}
+.key-document-wrap .table-wrap thead th:first-child {
+    width: 60px;
+}
+.key-document-wrap .table-wrap thead th:last-child {
+    width: 80px;
+}
+.page-template-kyc-document h1 {
+    font-size: 22px;
+}
+.page-template-kyc-document .ConnectBannerWrap {
+    padding: 40px 0 40px;
+}
+
+.video-gallery-wrap ul li {
+    width: 100%;
+    padding: 10px 0;
+}
+.video-gallery-wrap ul li img {
+    height: auto;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li {
+    width: 100%;
+    margin: 0 0 5px;
+}
+.request-form .gform_wrapper ul.gform_fields li.gfield .gfield_checkbox li:last-child {
+    margin: 0 0 0px;
+}
+.HomeBannerWrapper .TextBox {
+    padding-left: 20px;
+}
+.ftp-wrapper ul li .link a{
+    word-break: break-all;
+}
+.ftp-wrapper ul li div {
+    font-size: 12px;
+    padding: 10px 10px;
+}
+.ftp-wrapper ul li .date {
+    width: 80px;
+}
+.ftp-wrapper ul li .time {
+    width: 70px;
+}
+.ftp-wrapper ul li .link {
+    width: calc(100% - 150px);
+}
+.HomeBannerWrapper .BorderBtn {
+    margin-top: 0px;
+    padding: 6px 10px;
+    font-size: 12px;
+}
+.HomeBannerWrapper .box {
+    margin-top: 10px;
+    bottom: -24px;
+}
+
+.rakeshji-wrap .text-wrap h4 {
+    font-size: 20px;
+}
+.HomeBannerWrapper .BorderBtn i {
+    margin: 0px 3px 0 0;
+}
+.HomeBannerWrapper .HomeBanner {
+    height: 100%;
+}
+
+.newsletter .pagination a {
+    padding: 6px 13px;
+    font-size: 14px;
+}
+.newsletter .pagination span {
+    padding: 4px 13px;
+}
+.newsletter .service-content th {
+    font-size: 14px;
+}
+.newsletter .service-content td {
+    padding: 8px 10px;
+    font-size: 12px;
+}
+.newsletter .service-content table {
+    width: 520px;
+}
+
+.model .prices h6 {
+    font-size: 16px;
+}
+.model .disclaimer p {
+    font-size: 14px;
+}
+.nav_main ul.sub-menu {
+    padding: 0 0 0 20px;
+}
+
+}
+
+@media only screen and (min-width:350px) and (max-width:479px){
+
+}
+@media only screen and (min-width:400px) and (max-width:479px){
+
+}
+@media only screen and (min-width:450px) and (max-width:479px){
+
+}
+
+
+
+@media (max-width:299px){
+}
