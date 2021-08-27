@@ -1357,9 +1357,10 @@ body .es_subscription_message.error {
 	font-weight: 600;
 }
 .MapWrapper {
-    background: #1e1a24;
-    height: 660px;
+    background: #ffffff;
+    height: 400px;
     position: relative;
+	background: rgba(255,255,255,1) url(./images/location-1.jpg) no-repeat center;
 }
 .MapWrapper .ConnectDetailsBox {
     position: absolute;
