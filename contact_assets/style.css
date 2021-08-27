@@ -169,7 +169,7 @@ a	{
 h1 {
 	font-size:44px;
 	font-weight:900;
-	color:#1b4388 ;
+	color:#cb322d ;
 	line-height:90%;
 	font-family: 'Barlow', sans-serif;
 }
@@ -177,7 +177,7 @@ h1 {
 h2 {
 	font-size:44px;
 	font-weight:900;
-	color:#1b4388;
+	color:#cb322d;
 	line-height:90%;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -341,10 +341,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 .OpanMenu .login .dropdown li{
 	width: 100%;
 	float: left;
-	border-bottom: 1px solid #1b4388;
+	border-bottom: 1px solid #cb322d;
 }
 .OpanMenu .login .dropdown li:last-child{
-	border-bottom: 0px solid #1b4388;
+	border-bottom: 0px solid #cb322d;
 }
 .OpanMenu .login .dropdown .sub:hover .sup-dropdown {
     opacity: 1;
@@ -374,20 +374,20 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
 }
 .OpanMenu .login .dropdown li:hover a{
-	color: #1b4388;
+	color: #cb322d;
 	background-color: #ffc90e;
 }
 .OpanMenu .login .dropdown .sup-dropdown a{
-	background-color: #1b4388 !important;
+	background-color: #cb322d !important;
 	color: #ffffff !important;
 }
 .OpanMenu .login .dropdown .sup-dropdown a:hover{
-	color: #1b4388 !important;
+	color: #cb322d !important;
 	background-color: #ffc90e !important;
 }
 .OpanMenu .login .dropdown a{
 	padding: 10px 20px;
-	color: #1b4388;
+	color: #cb322d;
 	background-color: #ffffff;
 	display: inline-block;
 	width: 100%;
@@ -395,7 +395,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 }
 .OpanMenu a{
 	font-size: 14px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 600;
 	display: inline-block;
 	vertical-align: top;
@@ -546,7 +546,7 @@ ul.sub_nav{
 
 
 .nav_main{
-	background: #1b4388;
+	background: #cb322d;
 	width:300px;
     height:100%;
 	position:fixed;
@@ -626,7 +626,7 @@ ul.sub_nav{
     line-height: 66px;
     z-index: 999999;
     cursor: pointer;
-    background-color: #1b4388;
+    background-color: #cb322d;
     display: inline-block;
     transition: all 1s;
     -moz-transition: all 1s;
@@ -711,7 +711,7 @@ ul.sub_nav{
     bottom: 35px;
 }
 .s-back-to-top {
-    background: #1b4388;
+    background: #cb322d;
     bottom: -35px;
     display: block;
     width: 36px;
@@ -844,7 +844,7 @@ ul.sub_nav{
     display: inline-block;
     padding: 12px 30px;
     background-color: #ffc90e ;
-	color: #1b4388;
+	color: #cb322d;
     border-radius: 10px 10px 0 0;
     font-size: 16px;
     font-weight: 700;
@@ -865,13 +865,13 @@ ul.sub_nav{
 .HomeStickyBtn a:hover,
 .HomeStickyBtn a.Blue,
 .HomeStickyBtn button:hover{
-	background-color: #1b4388;
+	background-color: #cb322d;
     color: #ffffff;
 }
 .TabShouldWrapper .TabMain a.Blue:hover,
 .HomeStickyBtn a.Blue:hover{
 	background-color: #ffc90e;
-	color: #1b4388;
+	color: #cb322d;
 }
 .TabShouldWrapper .tab_container {
     width: 100%;
@@ -879,7 +879,7 @@ ul.sub_nav{
     position: relative;
 }
 .TabShouldWrapper .TabTitle{
-	background-color: #1b4388;
+	background-color: #cb322d;
 	padding: 60px 0;
 	text-align: center;
 	position: relative;
@@ -893,7 +893,7 @@ ul.sub_nav{
 	height: 0; 
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
-	border-top: 20px solid #1b4388;
+	border-top: 20px solid #cb322d;
 }
 .TabShouldWrapper .TabTitle h2{
 	color: #fff;
@@ -1084,13 +1084,13 @@ ul.sub_nav{
 	margin: 10px 0;
 }
 .BorderBtn{
-	border: 2px solid #1b4388;
+	border: 2px solid #cb322d;
 	font-size: 16px;
 	font-family: 'Barlow', sans-serif;
 	font-weight: 700;
 	line-height: 120%;
 	padding: 10px 30px;
-	color: #1b4388;
+	color: #cb322d;
 	display: inline-block;
 	text-transform: uppercase;
 	position: relative;
@@ -1113,7 +1113,7 @@ ul.sub_nav{
 	transition: all 0.25s ease 0s;
 	-webkit-transition: all 0.25s ease 0s;
     -moz-transition: all 0.25s ease 0s;
-    background-color: #1b4388;
+    background-color: #cb322d;
 }
 .BorderBtn:hover:before,
 .BorderBtn:hover:after{
@@ -1190,7 +1190,7 @@ ul.sub_nav{
     height: 58px;
     float: left;
     text-align: center;
-    background-color: #1b4388;
+    background-color: #cb322d;
     color: #fff;
     font-weight: 700;
     letter-spacing: 1px;
@@ -1239,7 +1239,7 @@ body .es_subscription_message.error {
 }
 .FooterWrapper .FooterMenu ul li a:hover,
 .FooterWrapper .LinkWrap ul li a:hover{
-	color: #1b4388;
+	color: #cb322d;
 }
 .FooterMenu .MenuPdg {
     padding: 0 60px;
@@ -1341,7 +1341,7 @@ body .es_subscription_message.error {
 	line-height: 120%;
 }
 .FooterWrapper .SocialWrap li a:hover{
-	color: #1b4388;
+	color: #cb322d;
 }
 .ConnectBannerWrap{
 	text-align: center;
@@ -1366,7 +1366,7 @@ body .es_subscription_message.error {
     position: absolute;
     left: 60px;
     top: -70px;
-    background-color: rgba(27,63,136,0.9);
+    background-color: rgb(203 50 45 / 78%);
     width: 360px;
     padding: 40px 30px;
     z-index: 1;
@@ -1444,7 +1444,7 @@ body .es_subscription_message.error {
 .StickyBtn a{
 	display: inline-block;
     padding: 12px 30px;
-    background-color: #1b4388;
+    background-color: #cb322d;
     color: #ffffff;
     margin: 0 3px;
     border-radius: 10px 10px 0 0;
@@ -1456,7 +1456,7 @@ body .es_subscription_message.error {
 }
 .StickyBtn a:hover {
     background-color: #ffc90e;
-    color: #1b4388;
+    color: #cb322d;
 }
 .ServicesBannerWrap {
     padding: 120px 0 40px;
@@ -1502,7 +1502,7 @@ body .es_subscription_message.error {
 }
 .ServicesBannerWrap .LeftBox h5{
 	font-size: 18px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: bold;
 	margin-bottom: 15px;
 	text-transform: uppercase;
@@ -1587,7 +1587,7 @@ body .es_subscription_message.error {
     font-size: 18px;
 }
 .start-investing a{
-	color: #1b4388;
+	color: #cb322d;
 	display: inline-block;
 }
 @keyframes animate {
@@ -1675,7 +1675,7 @@ body .es_subscription_message.error {
 	margin-bottom: 5px;
 }
 .ServicesBannerWrap .nav-pills.back .Products a:hover{
-	color: #1b4388;
+	color: #cb322d;
 }
 .ServicesBannerWrap .nav-pills.back .Products a b {
     width: auto;
@@ -1749,7 +1749,7 @@ body .es_subscription_message.error {
 	float: left;
 }
 .ServicesBannerWrap .LeftBox .btn-wrap span{
-	color: #1b4388;
+	color: #cb322d;
 	transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	-webkit-transition: all 0.3s;
@@ -2024,7 +2024,7 @@ body .es_subscription_message.error {
 }
 .BorderBtn.Black:hover{
 	color: #ffffff;
-	border-color: #1b4388;
+	border-color: #cb322d;
 }
 
 .ArticleWrapper {
@@ -2084,19 +2084,19 @@ body .es_subscription_message.error {
 	position: relative;
 }
 .ArticleWrapper ul li .TextBox h4 {
-    color: #1b4388;
+    color: #cb322d;
     text-transform: uppercase;
     line-height: 130%;
     font-size: 26px;
 }
 .ArticleWrapper ul li .Read {
     font-size: 14px;
-    color: #1b4388;
+    color: #cb322d;
     line-height: 120%;
     font-weight: 500;
     font-family: 'Barlow', sans-serif;
     background-color: transparent;
-    border: 1px solid #1b4388;
+    border: 1px solid #cb322d;
     border-radius: 30px;
     padding: 5px 20px;
     position: absolute;
@@ -2105,7 +2105,7 @@ body .es_subscription_message.error {
     display: inline-block;
 }
 .ArticleWrapper ul li .Read:hover{
-	background-color: #1b4388;
+	background-color: #cb322d;
 	color: #fff;
 }
 
@@ -2127,7 +2127,7 @@ body .es_subscription_message.error {
 	padding-left: 30px;
 }
 .GenerateWrap .GraphBox .TextBox span:first-child:before{
-	background-color: #1b4388;
+	background-color: #cb322d;
 }
 .GenerateWrap .GraphBox .TextBox span:last-child:before{
 	background-color: #ffc90e;
@@ -2158,7 +2158,7 @@ body .es_subscription_message.error {
 }
 .ResearchBannerWrap .TextBox p{
 	font-size: 16px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 500;
 	line-height: 120%;
 	margin-bottom: 15px;
@@ -2167,7 +2167,7 @@ body .es_subscription_message.error {
 	font-weight: 600;
 	font-style: italic;
 	font-size: 14px;
-	color: #1b4388;
+	color: #cb322d;
 	display: inline-block;
 }
 .ResearchBannerWrap .TextBox a:hover{
@@ -2260,7 +2260,7 @@ body .es_subscription_message.error {
 .EquityWrap ul li h4 {
     background-color: #ffc90e;
     padding: 8px 20px 8px 40px;
-    color: #1b4388;
+    color: #cb322d;
     font-weight: 500;
     text-transform: capitalize;
     font-size: 18px;
@@ -2287,12 +2287,12 @@ body .es_subscription_message.error {
     display: inline-block;
     background-color: #ffc90e;
     font-size: 14px;
-    color: #1b4388;
+    color: #cb322d;
     padding: 8px 10px;
     font-weight: 600;
 }
 .EquityWrap ul li .Border .Date {
-    color: #1b4388;
+    color: #cb322d;
     font-size: 16px;
     font-weight: 600;
     float: left;
@@ -2308,7 +2308,7 @@ body .es_subscription_message.error {
     display: inline-block;
 }
 .EquityWrap .ReportBtn:before{
-	border-top: 2px solid #1b4388;
+	border-top: 2px solid #cb322d;
 	content: '';
 	position: absolute;
 	width: 100%;
@@ -2321,14 +2321,14 @@ body .es_subscription_message.error {
 	vertical-align: middle;
 	font-size: 14px;
 	text-transform: uppercase;
-	color: #1b4388;
+	color: #cb322d;
 	padding: 5px 15px;
-	border: 2px solid #1b4388;
+	border: 2px solid #cb322d;
 	background-color: #ffffff;
 	font-weight: 600;
 }	
 .EquityWrap .ReportBtn a:hover{
-	background-color: #1b4388;
+	background-color: #cb322d;
 	color: #fff;
 }
 
@@ -2359,7 +2359,7 @@ body .es_subscription_message.error {
     float: left;
 }
 .modal .modal-dialog button.close{
-	background-color: #1b4388;
+	background-color: #cb322d;
     color: #ffffff;
     opacity: 1;
     width: 40px;
@@ -2467,7 +2467,7 @@ body .es_subscription_message.error {
 	position: absolute;
 	width: 14px;
 	height: 14px;
-	background-color: #1b4388;
+	background-color: #cb322d;
 	border-radius: 100%;
 	top: 7px;
 	left: 0;
@@ -2562,7 +2562,7 @@ body .es_subscription_message.error {
 }
 .JourneyWrapper ul li h3{
 	font-family: 'Montserrat', sans-serif;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 900;
 	font-size: 28px;
 	margin-bottom: 10px;
@@ -2581,7 +2581,7 @@ body .es_subscription_message.error {
 	font-style: italic;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
-	color: #1b4388;
+	color: #cb322d;
 	margin-bottom: 10px;
 }
 .JourneyWrapper ul li p{
@@ -2975,7 +2975,7 @@ left:-40px;
 }
 .border{
 	width: 200px;
-	border-top: 1px solid #1b4388;
+	border-top: 1px solid #cb322d;
 }
 .ServicesBannerWrap h1 a{
 	font-family: 'Barlow', sans-serif;
@@ -3030,7 +3030,7 @@ left:-40px;
     width: auto;
     background-color: rgba(28, 68, 136, 0.7);
     float: none;
-    border: 1px solid #1b4388;
+    border: 1px solid #cb322d;
     display: inline-block;
     color: #ffffff;
     padding: 14px 40px;
@@ -3118,7 +3118,7 @@ left:-40px;
     padding-top: 40px;
 }
 .become-partner-wrap .right-box h4{
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 400;
 	text-transform: uppercase;
 	margin-bottom: 30px;
@@ -3224,7 +3224,7 @@ body .gform_wrapper.gform_validation_error .gform_body ul li.gfield.gfield_error
     margin: 0px !important;
     padding: 12px 30px;
     background-color: #ffc90e;
-    color: #1b4388;
+    color: white;
     font-size: 18px !important;
     line-height: 120% !important;
     font-weight: 600;
@@ -3235,7 +3235,7 @@ body .gform_wrapper.gform_validation_error .gform_body ul li.gfield.gfield_error
 }
 .become-partner-wrap input[type=button]:hover,
 .request-form input[type=button]:hover{
-	background-color:  #1b4388;
+	background-color:  #cb322d;
     color: #ffffff;
 }
 .become-partner-wrap .gform_wrapper .validation_message,
@@ -3287,7 +3287,7 @@ body .gform_wrapper div.validation_error {
     top: 15px;
     z-index: -1;
     height: 2px;
-    background: #1b4388;
+    background: #cb322d;
 }
 .default-page ul li {
     padding-left: 20px;
@@ -3365,7 +3365,7 @@ body .gform_wrapper div.validation_error {
 	clear: both;
 }
 .management-box .box .title-box {
-    background-color: #1b4388;
+    background-color: #cb322d;
     width: 100%;
     float: left;
     padding: 12px 15px;
@@ -3441,12 +3441,12 @@ body .gform_wrapper div.validation_error {
 	height: 40px;
 	line-height: 40px;
 	text-align: center;
-	background-color: #1b4388;
+	background-color: #cb322d;
 	color: #ffffff;
 }
 .management-box .box .text-box ul li a:hover{
 	background-color: #ffc80b;
-	color: #1b4388;
+	color: #cb322d;
 }
 
 .key-document-wrap{
@@ -3455,7 +3455,7 @@ body .gform_wrapper div.validation_error {
 .key-document-wrap h5{
 	text-align: center;
 	margin-bottom: 20px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: bold;
 }
 .key-document-wrap .table-wrap{
@@ -3463,7 +3463,7 @@ body .gform_wrapper div.validation_error {
 	float: left;
 }
 .key-document-wrap .table-wrap thead{
-	background-color: #1b4388;
+	background-color: #cb322d;
 }
 .key-document-wrap .table-wrap thead th {
     color: #ffffff;
@@ -3543,7 +3543,7 @@ body .gform_wrapper div.validation_error {
     -moz-transition: all 0.25s ease 0s;
 }
 .video-gallery-wrap ul li a:hover h6{
-	color: #1b4388;
+	color: #cb322d;
 }
 .request-form {
     width: 100%;
@@ -3551,7 +3551,7 @@ body .gform_wrapper div.validation_error {
     padding-top: 50px;
 }
 .request-form h4{
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 30px;
@@ -3635,12 +3635,12 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 .rakeshji-wrap .text-wrap h4{
 	font-size: 24px;
 	padding-bottom: 10px;
-	color: #1b4388;
+	color: #cb322d;
 }
 .rakeshji-wrap .text-wrap h5{
 	font-size: 20px;
 	padding-bottom: 20px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 600;
 }
 .rakeshji-wrap .text-wrap p{
@@ -3650,7 +3650,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 	background-color: transparent;
 	display: inline-block;
 	font-size: 18px;
-	color: #1b4388;
+	color: #cb322d;
 	font-weight: 600;
 }
 .rakeshji-wrap .more-btn span{
@@ -3690,7 +3690,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 	background-color: #ffffff;
 }
 .newsletter .service-content thead{
-	background-color: #1b4388;
+	background-color: #cb322d;
 	text-align: center;
 	color: #ffffff;
 }
@@ -3725,7 +3725,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 .newsletter .pagination a {
     padding: 8px 15px;
     color: #ffffff;
-    background-color: #1b4388;
+    background-color: #cb322d;
     line-height: 120%;
     font-weight: 600;
     font-size: 16px;
@@ -3738,7 +3738,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
     background-color: #ffffff;
     line-height: 110%;
     font-size: 16px;
-    border: 1px solid #1b4388;
+    border: 1px solid #cb322d;
     color: #000000;
     display: inline-block;
     vertical-align: middle;
@@ -3754,7 +3754,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
     margin: 30px 0 20px;
 }
 .model .prices h6{
-	color: #1b4388;
+	color: #cb322d;
     font-weight: 600;
     line-height: 130%;
     font-size: 18px;
@@ -3772,7 +3772,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
     width: 210px;
     transform: translate(-50%, 0px);
     left: 50%;
-    background-color: #1b4388;
+    background-color: #cb322d;
     margin-top: 10px;
     z-index: 9;
     opacity: 0;
@@ -3805,7 +3805,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 .products-btn ul.sub-link li a.active,
 .products-btn ul.sub-link li a:hover{
 	background-color: #ffc90e;
-    color: #1b4388;
+    color: #cb322d;
 }
 .products-btn ul.sub-link li a:before{
 	display: none;
@@ -3843,7 +3843,7 @@ body .gform_wrapper.gf_browser_chrome .gfield_radio li input[type=radio] {
 /*
 #ffc90e - a
 
-#1b4388 - b
+#cb322d - b
 
 font-family: 'Montserrat', sans-serif;
 
