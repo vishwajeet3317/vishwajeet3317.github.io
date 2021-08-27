@@ -109,7 +109,7 @@ function sendMail() {
     data: JSON.stringify(data),
     success: function (result) {
       console.log(result)
-      alert("We receive your request your successfully!")
+      alert("We receive your request successfully!")
     },
     error: function (e) {
       console.log(e)
