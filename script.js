@@ -191,7 +191,7 @@ let emojiData = [
   }
 , {
     "emoji": "🥰"
-  , "name": "smiling face with hearts"
+  , "name": "smiling face with hearts love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "smiling_face_with_three_hearts"
@@ -204,7 +204,7 @@ let emojiData = [
   }
 , {
     "emoji": "😍"
-  , "name": "smiling face with heart-eyes"
+  , "name": "smiling face with heart-eyes love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heart_eyes"
@@ -1741,7 +1741,7 @@ let emojiData = [
   }
 , {
     "emoji": "💓"
-  , "name": "beating heart"
+  , "name": "beating heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heartbeat"
@@ -1753,7 +1753,7 @@ let emojiData = [
   }
 , {
     "emoji": "💞"
-  , "name": "revolving hearts"
+  , "name": "revolving hearts love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "revolving_hearts"
@@ -1765,7 +1765,7 @@ let emojiData = [
   }
 , {
     "emoji": "💕"
-  , "name": "two hearts"
+  , "name": "two hearts love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "two_hearts"
@@ -1777,7 +1777,7 @@ let emojiData = [
   }
 , {
     "emoji": "💟"
-  , "name": "heart decoration"
+  , "name": "heart decoration love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heart_decoration"
@@ -1789,7 +1789,7 @@ let emojiData = [
   }
 , {
     "emoji": "❣️"
-  , "name": "heart exclamation"
+  , "name": "heart exclamation love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heavy_heart_exclamation"
@@ -1813,7 +1813,7 @@ let emojiData = [
   }
 , {
     "emoji": "❤️‍🔥"
-  , "name": "heart on fire"
+  , "name": "heart on fire love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heart_on_fire"
@@ -1825,7 +1825,7 @@ let emojiData = [
   }
 , {
     "emoji": "❤️‍🩹"
-  , "name": "mending heart"
+  , "name": "mending heart patch love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "mending_heart"
@@ -1837,7 +1837,7 @@ let emojiData = [
   }
 , {
     "emoji": "❤️"
-  , "name": "red heart"
+  , "name": "red heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "heart"
@@ -1850,7 +1850,7 @@ let emojiData = [
   }
 , {
     "emoji": "🩷"
-  , "name": "pink heart"
+  , "name": "pink heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "pink_heart"
@@ -1862,7 +1862,7 @@ let emojiData = [
   }
 , {
     "emoji": "🧡"
-  , "name": "orange heart"
+  , "name": "orange heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "orange_heart"
@@ -1874,7 +1874,7 @@ let emojiData = [
   }
 , {
     "emoji": "💛"
-  , "name": "yellow heart"
+  , "name": "yellow heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "yellow_heart"
@@ -1886,7 +1886,7 @@ let emojiData = [
   }
 , {
     "emoji": "💚"
-  , "name": "green heart"
+  , "name": "green heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "green_heart"
@@ -1898,7 +1898,7 @@ let emojiData = [
   }
 , {
     "emoji": "💙"
-  , "name": "blue heart"
+  , "name": "blue heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "blue_heart"
@@ -1910,7 +1910,7 @@ let emojiData = [
   }
 , {
     "emoji": "🩵"
-  , "name": "light blue heart"
+  , "name": "light blue heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "light_blue_heart"
@@ -1922,7 +1922,7 @@ let emojiData = [
   }
 , {
     "emoji": "💜"
-  , "name": "purple heart"
+  , "name": "purple heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "purple_heart"
@@ -1934,7 +1934,7 @@ let emojiData = [
   }
 , {
     "emoji": "🤎"
-  , "name": "brown heart"
+  , "name": "brown heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "brown_heart"
@@ -1946,7 +1946,7 @@ let emojiData = [
   }
 , {
     "emoji": "🖤"
-  , "name": "black heart"
+  , "name": "black heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "black_heart"
@@ -1958,7 +1958,7 @@ let emojiData = [
   }
 , {
     "emoji": "🩶"
-  , "name": "grey heart"
+  , "name": "grey heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "grey_heart"
@@ -1970,7 +1970,7 @@ let emojiData = [
   }
 , {
     "emoji": "🤍"
-  , "name": "white heart"
+  , "name": "white heart love"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "white_heart"
@@ -1995,7 +1995,7 @@ let emojiData = [
   }
 , {
     "emoji": "💯"
-  , "name": "hundred points"
+  , "name": "hundred points sure correct"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "100"
@@ -2009,7 +2009,7 @@ let emojiData = [
   }
 , {
     "emoji": "💢"
-  , "name": "anger symbol"
+  , "name": "anger symbol "
   , "category": "Smileys & Emotion"
   , "aliases": [
       "anger"
@@ -2022,7 +2022,7 @@ let emojiData = [
   }
 , {
     "emoji": "💥"
-  , "name": "collision"
+  , "name": "collision fire blast"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "boom"
@@ -2036,7 +2036,7 @@ let emojiData = [
   }
 , {
     "emoji": "💫"
-  , "name": "dizzy"
+  , "name": "dizzy star shooting"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "dizzy"
@@ -2049,7 +2049,7 @@ let emojiData = [
   }
 , {
     "emoji": "💦"
-  , "name": "sweat droplets"
+  , "name": "sweat droplets water"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "sweat_drops"
@@ -2063,7 +2063,7 @@ let emojiData = [
   }
 , {
     "emoji": "💨"
-  , "name": "dashing away"
+  , "name": "dashing away air fart"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "dash"
@@ -2090,7 +2090,7 @@ let emojiData = [
   }
 , {
     "emoji": "💬"
-  , "name": "speech balloon"
+  , "name": "speech balloon text box"
   , "category": "Smileys & Emotion"
   , "aliases": [
       "speech_balloon"
