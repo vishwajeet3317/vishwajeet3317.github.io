@@ -23494,21 +23494,51 @@ const searchInput = document.getElementById("searchInput");
 const textArea = document.getElementById("textArea");
 
 
-// Initial display of emojis
-displayEmojis(emojiData.map((data) => data.emoji));
+// // Initial display of emojis
+// displayEmojis(emojiData.map((data) => data.emoji));
 
-// Event listener for real-time search
-searchInput.addEventListener("input", () => {
-  const searchTerm = searchInput.value.toLowerCase();
-  const filteredEmojis = emojiData.filter((data) =>
-    data.name.toLowerCase().includes(searchTerm)
-  );
-  displayEmojis(filteredEmojis.map((data) => data.emoji));
+// // Event listener for real-time search
+// searchInput.addEventListener("input", () => {
+//   const searchTerm = searchInput.value.toLowerCase();
+//   const filteredEmojis = emojiData.filter((data) =>
+//     data.name.toLowerCase().includes(searchTerm)
+//   );
+//   displayEmojis(filteredEmojis.map((data) => data.emoji));
+// });
+
+// // Function to display emojis in the container
+// function displayEmojis(emojiArray) {
+//   emojiContainer.innerHTML = "";
+//   emojiArray.forEach((emoji) => {
+//     const emojiDiv = document.createElement("div");
+//     emojiDiv.classList.add("emoji");
+//     emojiDiv.textContent = emoji;
+//     emojiDiv.addEventListener("click", () => addEmojiToTextArea(emoji));
+//     emojiContainer.appendChild(emojiDiv);
+//   });
+// }
+
+// Organize emojiData by categories
+const emojisByCategory = {};
+emojiData.forEach((data) => {
+  if (!emojisByCategory[data.category]) {
+    emojisByCategory[data.category] = [];
+  }
+  emojisByCategory[data.category].push(data);
 });
 
-// Function to display emojis in the container
-function displayEmojis(emojiArray) {
-  emojiContainer.innerHTML = "";
+// Initial display of emojis by category
+for (const category in emojisByCategory) {
+  const categoryEmojis = emojisByCategory[category];
+  displayEmojis(category, categoryEmojis.map((data) => data.emoji));
+}
+
+// Function to display emojis in the container for a specific category
+function displayEmojis(category, emojiArray) {
+  const categoryContainer = document.createElement("h2");
+  categoryContainer.style.width = "100%"; // Set width to 100%
+  categoryContainer.innerText = `${category}`
+  emojiContainer.appendChild(categoryContainer);
   emojiArray.forEach((emoji) => {
     const emojiDiv = document.createElement("div");
     emojiDiv.classList.add("emoji");
@@ -23517,6 +23547,26 @@ function displayEmojis(emojiArray) {
     emojiContainer.appendChild(emojiDiv);
   });
 }
+
+// Event listener for real-time search
+searchInput.addEventListener("input", () => {
+  const searchTerm = searchInput.value.toLowerCase();
+  const filteredEmojis = emojiData.filter((data) =>
+    data.name.toLowerCase().includes(searchTerm)
+  );
+  const filteredEmojisByCategory = {};
+  filteredEmojis.forEach((data) => {
+    if (!filteredEmojisByCategory[data.category]) {
+      filteredEmojisByCategory[data.category] = [];
+    }
+    filteredEmojisByCategory[data.category].push(data);
+  });
+  emojiContainer.innerHTML = '';
+  for (const category in filteredEmojisByCategory) {
+    const categoryEmojis = filteredEmojisByCategory[category];
+    displayEmojis(category, categoryEmojis.map((data) => data.emoji));
+  }
+});
 
 // Function to add the clicked emoji to the text area
 function addEmojiToTextArea(emoji) {
