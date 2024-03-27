@@ -23494,29 +23494,6 @@ const searchInput = document.getElementById("searchInput");
 const textArea = document.getElementById("textArea");
 
 
-// // Initial display of emojis
-// displayEmojis(emojiData.map((data) => data.emoji));
-
-// // Event listener for real-time search
-// searchInput.addEventListener("input", () => {
-//   const searchTerm = searchInput.value.toLowerCase();
-//   const filteredEmojis = emojiData.filter((data) =>
-//     data.name.toLowerCase().includes(searchTerm)
-//   );
-//   displayEmojis(filteredEmojis.map((data) => data.emoji));
-// });
-
-// // Function to display emojis in the container
-// function displayEmojis(emojiArray) {
-//   emojiContainer.innerHTML = "";
-//   emojiArray.forEach((emoji) => {
-//     const emojiDiv = document.createElement("div");
-//     emojiDiv.classList.add("emoji");
-//     emojiDiv.textContent = emoji;
-//     emojiDiv.addEventListener("click", () => addEmojiToTextArea(emoji));
-//     emojiContainer.appendChild(emojiDiv);
-//   });
-// }
 
 // Organize emojiData by categories
 const emojisByCategory = {};
@@ -23537,6 +23514,10 @@ for (const category in emojisByCategory) {
 function displayEmojis(category, emojiArray) {
   const categoryContainer = document.createElement("h2");
   categoryContainer.style.width = "100%"; // Set width to 100%
+  categoryContainer.style.fontSize = "20px";
+  categoryContainer.style.color = "grey";
+  categoryContainer.style.marginBottom = "2rem";
+  categoryContainer.style.marginTop = "2rem";
   categoryContainer.innerText = `${category}`
   emojiContainer.appendChild(categoryContainer);
   emojiArray.forEach((emoji) => {
