@@ -29,26 +29,22 @@
                 <div class="search-container toolbar ">
                     <emoji-search class="toolbar__search">
                         <form action="" role="search" style="display: inline-flex;">
-                            <span class="toolbar__search__icon"></span>
+                            <span title="Search Emoji" class="toolbar__search__icon"></span>
                             <input type="text" id="searchInput" class="" placeholder="SEARCH">
                         </form>
                     </emoji-search>
-
+                    <span id="clipboardButton" title="Copy" class="toolbar__copy__icon"></span>
+                    <!-- Clipboard popup -->
+                    <textarea style="display: none;" class="clipboard-popup" id="clipboardPopup"
+                        placeholder="Select And Copy From Here..."></textarea>
                 </div>
             </div>
         </div>
     </div>
-    <div style="text-align: center;">
-        <textarea class="inputStyle" id="textArea" placeholder="Select And Copy From Here..."></textarea>
-    </div>
-    <!-- <div class="ad-container">
-    </div> -->
 
     <main id="emojiContainer" class="container emojiContainerStyle">
         <!-- Emojis will be dynamically added here -->
     </main>
-    <!-- <div class="ad-container">
-    </div> -->
     <section class="about active">
         <div class="centerizer">
             <div class="about__state-opened">
@@ -79,6 +75,7 @@
             </div>
         </div>
     </section>
+
     <script src="./script.js"></script>
 </body>
 

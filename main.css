@@ -6,7 +6,6 @@ body {
 }
 
 header {
-    /* background-color: #3498db; */
     color: #080808;
     padding: 20px;
     text-align: center;
@@ -15,7 +14,6 @@ header {
 main {
     display: flex !important;
     flex-wrap: wrap;
-    /* justify-content: center; */
     padding: 20px;
 }
 
@@ -24,11 +22,6 @@ main {
     margin: 0.5rem;
     cursor: pointer;
 }
-
-/* .search-container {
-    text-align: center;
-    margin: 20px;
-} */
 
 .search-input {
     padding: 10px;
@@ -46,16 +39,12 @@ main {
 .ad-container {
     width: 100%;
     height: 200px;
-    /* Set the desired height for your ad */
     background-color: #f2f2f2;
-    /* Optional background color */
     margin-bottom: 20px;
-    /* Optional margin to create space between content and ad */
 }
 
 .inputStyle {
     border-radius: 10px;
-    /* height: 10px !important; */
 }
 
 .custom-3d-text {
@@ -70,13 +59,9 @@ main {
 
 .background-container {
     background-image: url('/world-smile-day-emojis-composition.jpg');
-    /* Replace with the actual path to your image */
     background-size: cover;
-    /* Ensures the image covers the entire container */
     background-position: center;
-    /* Centers the image within the container */
     background-repeat: no-repeat;
-    /* Prevents the image from repeating */
 }
 
 
@@ -86,7 +71,6 @@ main {
     position: fixed;
     top: 0;
     left: 0;
-    /* background: #000; */
     width: 100%;
     color: #fff;
     z-index: 9999;
@@ -102,7 +86,6 @@ main {
     left: 0;
     width: 100%;
     z-index: 9999;
-    /* padding-top: .5rem; */
     box-shadow: 0 0 6px #CCCCCC;
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0);
@@ -111,13 +94,11 @@ main {
 
 .toolbar__wrap .full-bg {
     width: 100%;
-    /* padding: .5rem 0; */
-    background: #fff;
+    background: #fdd148;
 }
 
 .toolbar {
     width: 100%;
-    /* margin-bottom: .5rem; */
     position: relative;
     z-index: 999;
 }
@@ -132,6 +113,18 @@ main {
     background-repeat: no-repeat;
     position: relative;
     top: 8px;
+    left: 0px;
+}
+
+.toolbar__copy__icon {
+    display: inline-block;
+    height: 40px;
+    width: 70px;
+    background-image: url(./copyicon.png);
+    background-size: 70px 40px !important;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 8px;
     left: 8px;
 }
 
@@ -140,8 +133,8 @@ main {
 }
 
 .toolbar__search input {
-    border: none;
-    border-radius: 0;
+    border: 1px solid #fdd148;
+    border-radius: 45px;
     height: 4rem;
     line-height: 4rem;
     width: 400px;
@@ -158,19 +151,8 @@ input:focus {
     outline: none;
 }
 
-/* input[type="text" i] {
-    padding-block: 1px;
-    padding-inline: 2px;
-} */
-
-
-/* form {
-    display: block;
-    margin-top: 0em;
-    unicode-bidi: isolate;
-} */
 .emojiContainerStyle {
-    top: 6em;
+    top: 12em;
     position: relative;
 }
 
@@ -202,10 +184,8 @@ input:focus {
 
 .about__h4 {
     display: block;
-    /* line-height: 1; */
     font-size: 20px;
     font-weight: 400;
-    /* margin-bottom: 2rem; */
 }
 
 .about__panels {
@@ -234,36 +214,51 @@ input:focus {
 }
 
 .about__credits {
-    /* display: -ms-flexbox; */
     display: flex;
-    /* -ms-flex-align: center; */
     align-items: center;
     -ms-flex-pack: start;
     justify-content: flex-start;
     line-height: 1;
 }
 
-/* .about ul li {
-    margin-bottom: 1.4rem;
-} */
-
 .about ul {
     list-style-type: disc;
     margin-left: 0;
 }
+
 .about__credits span {
     text-transform: uppercase;
     font-size: 1.4rem;
     color: #9B9B9B;
     margin-right: 1rem;
 }
+
 @media (max-width: 600px) {
+    .toolbar__search input {
+        height: 3rem;
+        width: 245px;
+    }
+
+    .clipboard-popup {
+        max-width: unset;
+    }
+
+    .toolbar__search__icon {
+        height: 30px;
+        width: 30px;
+        background-size: 30px 30px !important;
+    }
+
+    .toolbar__copy__icon {
+        height: 30px;
+        width: 60px;
+        background-size: 60px 30px !important;
+    }
+
     .about__credits span {
         font-size: 16px;
     }
-    /* .toolbar__wrap {
-      top: 10em;
-    } */
+
     .emoji {
         font-size: 2em;
     }
@@ -271,6 +266,7 @@ input:focus {
     .about__state-opened {
         padding: 2rem .5rem;
     }
+
     .about {
         font-size: 14px;
         margin-bottom: 2.5rem;
@@ -298,6 +294,7 @@ input:focus {
         width: auto;
         display: block;
     }
+
     .about ul {
         margin-left: 0;
     }
@@ -313,4 +310,21 @@ input:focus {
     .about {
         font-size: 13px;
     }
+}
+
+.clipboard-popup {
+    position: fixed;
+    top: 175%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 500px;
+    height: 70px;
+    background-color: white;
+    border: 1px solid #1b26bb;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    resize: none;
+    cursor: pointer;
 }
