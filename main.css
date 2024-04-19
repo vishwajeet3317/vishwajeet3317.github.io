@@ -159,7 +159,7 @@ input:focus {
 /* Footer */
 .about {
     position: relative;
-    top: 10em;
+    top: 15em;
     display: block;
     background: #ECECEC;
     color: #4A4A4A;
@@ -184,7 +184,7 @@ input:focus {
 
 .about__h4 {
     display: block;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 400;
 }
 
