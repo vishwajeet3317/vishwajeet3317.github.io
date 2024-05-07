@@ -443,7 +443,7 @@ let emojiData = [
   },
   {
     emoji: "🫨",
-    name: "shaking face",
+    name: "shaking face shock",
     category: "Smileys & Emotion",
     aliases: ["shaking_face"],
     tags: ["shock"],
@@ -560,7 +560,7 @@ let emojiData = [
   },
   {
     emoji: "🥶",
-    name: "cold face",
+    name: "cold face cool snow frizzy",
     category: "Smileys & Emotion",
     aliases: ["cold_face"],
     tags: ["freezing", "ice"],
@@ -614,7 +614,7 @@ let emojiData = [
   },
   {
     emoji: "🥳",
-    name: "partying face",
+    name: "partying face cool",
     category: "Smileys & Emotion",
     aliases: ["partying_face"],
     tags: ["celebration", "birthday"],
@@ -632,7 +632,7 @@ let emojiData = [
   },
   {
     emoji: "😎",
-    name: "smiling face with sunglasses",
+    name: "smiling face with sunglasses cool smart attitude",
     category: "Smileys & Emotion",
     aliases: ["sunglasses"],
     tags: ["cool"],
@@ -641,7 +641,7 @@ let emojiData = [
   },
   {
     emoji: "🤓",
-    name: "nerd face",
+    name: "nerd face geek glasses",
     category: "Smileys & Emotion",
     aliases: ["nerd_face"],
     tags: ["geek", "glasses"],
@@ -704,7 +704,7 @@ let emojiData = [
   },
   {
     emoji: "😮",
-    name: "face with open mouth",
+    name: "face with open mouth shock",
     category: "Smileys & Emotion",
     aliases: ["open_mouth"],
     tags: ["surprise", "impressed", "wow"],
@@ -821,7 +821,7 @@ let emojiData = [
   },
   {
     emoji: "😱",
-    name: "face screaming in fear",
+    name: "face screaming in fear shock",
     category: "Smileys & Emotion",
     aliases: ["scream"],
     tags: ["horror", "shocked"],
